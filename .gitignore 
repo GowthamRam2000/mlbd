@@ -1,0 +1,39 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+*.env
+.env.*
+
+# IDE specific files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sublime-*
+
+# Log files
+*.log
+app_debug.log
+
+# Data files (Optional - see note below)
+# data/inventory.db
+
+# Generated reports
+reports/
+*.pdf
+
+# Temporary test data
+temp_test_data/
+
+# OS specific files
+.DS_Store
+Thumbs.db

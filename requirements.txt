@@ -1,0 +1,23 @@
+# Core Framework
+streamlit
+
+# Data Handling and Numerical Operations
+pandas
+numpy
+
+# Machine Learning
+scikit-learn  # Includes RandomForest, IsolationForest, preprocessing, metrics etc.
+joblib        # For saving/loading ML models (often installed with scikit-learn but good to specify)
+
+# Plotting and Visualization
+matplotlib
+seaborn
+# networkx might also be used by visualizations.py for graph plots
+networkx      # Likely used for recommendation graph & potentially visualization
+
+# PDF Report Generation
+reportlab
+
+# Standard library modules like os, sys, datetime, time, logging,
+# sqlite3, random, json, collections, heapq, itertools, threading, queue,
+# traceback, base64 are built-in and do not need to be listed here.

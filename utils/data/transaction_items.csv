@@ -1,0 +1,2652 @@
+item_id,transaction_id,product_id,quantity,price_per_unit,product_name,category
+1,1,32,1,881.19,Ceramic Mixer,Kitchen
+2,2,9,1,907.16,Durable Stapler,Office Supplies
+3,3,50,3,609.91,Wireless Smartwatch,Electronics
+4,3,1,2,657.49,Educational Doll,Toys & Games
+5,3,19,3,470.88,Compact Vacuum,Home Appliances
+6,3,2,2,58.73,Ceramic Blender,Kitchen
+7,4,19,1,470.88,Compact Vacuum,Home Appliances
+8,4,34,2,581.47,Natural Moisturizer,Beauty & Personal Care
+9,4,35,2,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+10,5,36,2,432.44,Energy-efficient Fan,Home Appliances
+11,5,16,2,164.09,Classic Puzzle,Toys & Games
+12,6,19,1,470.88,Compact Vacuum,Home Appliances
+13,6,1,2,657.49,Educational Doll,Toys & Games
+14,7,19,1,470.88,Compact Vacuum,Home Appliances
+15,7,18,2,218.27,Hardcover Biography,Books
+16,8,39,3,426.93,Ergonomic Cabinet,Furniture
+17,8,13,3,936.93,All-Weather Ball,Sports & Outdoors
+18,8,21,3,330.45,Smart Heater,Home Appliances
+19,9,8,2,620.77,Casual Jeans,Clothing
+20,10,8,1,620.77,Casual Jeans,Clothing
+21,10,26,3,27.02,Portable Fitness Tracker,Sports & Outdoors
+22,10,15,2,670.76,Vintage Jacket,Clothing
+23,11,31,3,11.91,Formal Jeans,Clothing
+24,12,38,2,898.61,Organic Moisturizer,Beauty & Personal Care
+25,12,32,1,881.19,Ceramic Mixer,Kitchen
+26,12,9,2,907.16,Durable Stapler,Office Supplies
+27,12,17,2,437.4,Executive Pen Set,Office Supplies
+28,13,32,2,881.19,Ceramic Mixer,Kitchen
+29,13,29,1,869.43,Casual Shirt,Clothing
+30,13,36,3,432.44,Energy-efficient Fan,Home Appliances
+31,13,17,2,437.4,Executive Pen Set,Office Supplies
+32,13,28,3,513.64,Recycled Pen Set,Office Supplies
+33,14,23,3,853.43,Compact Cabinet,Furniture
+34,14,34,2,581.47,Natural Moisturizer,Beauty & Personal Care
+35,14,11,3,798.89,Electronic Puzzle,Toys & Games
+36,15,26,2,27.02,Portable Fitness Tracker,Sports & Outdoors
+37,15,2,2,58.73,Ceramic Blender,Kitchen
+38,16,28,3,513.64,Recycled Pen Set,Office Supplies
+39,16,8,1,620.77,Casual Jeans,Clothing
+40,16,26,2,27.02,Portable Fitness Tracker,Sports & Outdoors
+41,17,41,3,572.96,Lightweight Tent,Sports & Outdoors
+42,17,20,1,269.58,Interactive Building Blocks,Toys & Games
+43,17,39,3,426.93,Ergonomic Cabinet,Furniture
+44,17,34,3,581.47,Natural Moisturizer,Beauty & Personal Care
+45,18,28,2,513.64,Recycled Pen Set,Office Supplies
+46,18,42,3,874.95,Vintage Shirt,Clothing
+47,18,26,3,27.02,Portable Fitness Tracker,Sports & Outdoors
+48,18,33,2,872.23,Durable Backpack,Sports & Outdoors
+49,18,3,2,380.13,Luxury Moisturizer,Beauty & Personal Care
+50,19,6,2,969.12,Professional Ball,Sports & Outdoors
+51,19,46,3,186.25,Natural Hair Dryer,Beauty & Personal Care
+52,19,49,1,971.24,Creative Board Game,Toys & Games
+53,20,1,3,657.49,Educational Doll,Toys & Games
+54,20,50,2,609.91,Wireless Smartwatch,Electronics
+55,20,19,2,470.88,Compact Vacuum,Home Appliances
+56,21,13,1,936.93,All-Weather Ball,Sports & Outdoors
+57,21,34,1,581.47,Natural Moisturizer,Beauty & Personal Care
+58,22,9,1,907.16,Durable Stapler,Office Supplies
+59,22,17,1,437.4,Executive Pen Set,Office Supplies
+60,22,28,1,513.64,Recycled Pen Set,Office Supplies
+61,22,40,2,185.38,Ergonomic Cabinet,Furniture
+62,23,37,1,575.69,Classic Board Game,Toys & Games
+63,23,10,2,224.96,Portable TV,Electronics
+64,23,21,3,330.45,Smart Heater,Home Appliances
+65,24,27,2,33.26,Professional Shampoo,Beauty & Personal Care
+66,25,2,1,58.73,Ceramic Blender,Kitchen
+67,25,13,1,936.93,All-Weather Ball,Sports & Outdoors
+68,26,13,1,936.93,All-Weather Ball,Sports & Outdoors
+69,26,15,3,670.76,Vintage Jacket,Clothing
+70,26,39,1,426.93,Ergonomic Cabinet,Furniture
+71,26,17,1,437.4,Executive Pen Set,Office Supplies
+72,27,50,3,609.91,Wireless Smartwatch,Electronics
+73,27,5,1,217.67,Classic Board Game,Toys & Games
+74,28,48,1,353.38,Portable Bicycle,Sports & Outdoors
+75,28,49,3,971.24,Creative Board Game,Toys & Games
+76,28,42,3,874.95,Vintage Shirt,Clothing
+77,29,20,3,269.58,Interactive Building Blocks,Toys & Games
+78,29,29,1,869.43,Casual Shirt,Clothing
+79,30,50,3,609.91,Wireless Smartwatch,Electronics
+80,31,50,1,609.91,Wireless Smartwatch,Electronics
+81,31,19,3,470.88,Compact Vacuum,Home Appliances
+82,31,1,2,657.49,Educational Doll,Toys & Games
+83,32,28,2,513.64,Recycled Pen Set,Office Supplies
+84,32,9,1,907.16,Durable Stapler,Office Supplies
+85,33,44,1,36.41,Wooden Cabinet,Furniture
+86,33,12,2,853.97,Designer Shirt,Clothing
+87,33,22,3,315.8,Premium Organizer,Office Supplies
+88,34,37,2,575.69,Classic Board Game,Toys & Games
+89,34,38,3,898.61,Organic Moisturizer,Beauty & Personal Care
+90,35,2,3,58.73,Ceramic Blender,Kitchen
+91,35,32,3,881.19,Ceramic Mixer,Kitchen
+92,36,8,1,620.77,Casual Jeans,Clothing
+93,36,36,2,432.44,Energy-efficient Fan,Home Appliances
+94,37,48,3,353.38,Portable Bicycle,Sports & Outdoors
+95,38,41,3,572.96,Lightweight Tent,Sports & Outdoors
+96,38,45,3,500.45,Electric Cookware Set,Kitchen
+97,39,19,2,470.88,Compact Vacuum,Home Appliances
+98,39,1,3,657.49,Educational Doll,Toys & Games
+99,39,50,1,609.91,Wireless Smartwatch,Electronics
+100,39,20,1,269.58,Interactive Building Blocks,Toys & Games
+101,40,2,3,58.73,Ceramic Blender,Kitchen
+102,40,37,1,575.69,Classic Board Game,Toys & Games
+103,41,10,2,224.96,Portable TV,Electronics
+104,41,8,3,620.77,Casual Jeans,Clothing
+105,41,9,2,907.16,Durable Stapler,Office Supplies
+106,42,2,3,58.73,Ceramic Blender,Kitchen
+107,42,32,2,881.19,Ceramic Mixer,Kitchen
+108,42,43,2,871.0,Electric Toaster,Kitchen
+109,43,9,1,907.16,Durable Stapler,Office Supplies
+110,43,17,1,437.4,Executive Pen Set,Office Supplies
+111,44,2,2,58.73,Ceramic Blender,Kitchen
+112,44,32,1,881.19,Ceramic Mixer,Kitchen
+113,45,9,3,907.16,Durable Stapler,Office Supplies
+114,45,28,3,513.64,Recycled Pen Set,Office Supplies
+115,45,8,1,620.77,Casual Jeans,Clothing
+116,46,42,3,874.95,Vintage Shirt,Clothing
+117,46,50,3,609.91,Wireless Smartwatch,Electronics
+118,46,1,1,657.49,Educational Doll,Toys & Games
+119,47,35,2,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+120,47,48,3,353.38,Portable Bicycle,Sports & Outdoors
+121,47,28,2,513.64,Recycled Pen Set,Office Supplies
+122,47,29,3,869.43,Casual Shirt,Clothing
+123,47,19,1,470.88,Compact Vacuum,Home Appliances
+124,48,1,3,657.49,Educational Doll,Toys & Games
+125,48,50,3,609.91,Wireless Smartwatch,Electronics
+126,48,19,1,470.88,Compact Vacuum,Home Appliances
+127,48,21,3,330.45,Smart Heater,Home Appliances
+128,49,28,2,513.64,Recycled Pen Set,Office Supplies
+129,49,17,3,437.4,Executive Pen Set,Office Supplies
+130,49,9,1,907.16,Durable Stapler,Office Supplies
+131,49,18,1,218.27,Hardcover Biography,Books
+132,49,2,1,58.73,Ceramic Blender,Kitchen
+133,50,2,3,58.73,Ceramic Blender,Kitchen
+134,51,46,2,186.25,Natural Hair Dryer,Beauty & Personal Care
+135,51,42,3,874.95,Vintage Shirt,Clothing
+136,51,40,2,185.38,Ergonomic Cabinet,Furniture
+137,52,25,1,255.44,All-Weather Tent,Sports & Outdoors
+138,52,23,1,853.43,Compact Cabinet,Furniture
+139,52,20,2,269.58,Interactive Building Blocks,Toys & Games
+140,53,43,1,871.0,Electric Toaster,Kitchen
+141,54,32,1,881.19,Ceramic Mixer,Kitchen
+142,54,2,1,58.73,Ceramic Blender,Kitchen
+143,54,43,1,871.0,Electric Toaster,Kitchen
+144,54,34,1,581.47,Natural Moisturizer,Beauty & Personal Care
+145,55,28,2,513.64,Recycled Pen Set,Office Supplies
+146,55,9,1,907.16,Durable Stapler,Office Supplies
+147,55,17,2,437.4,Executive Pen Set,Office Supplies
+148,56,12,3,853.97,Designer Shirt,Clothing
+149,56,4,3,692.96,Vintage T-shirt,Clothing
+150,56,21,3,330.45,Smart Heater,Home Appliances
+151,56,37,2,575.69,Classic Board Game,Toys & Games
+152,57,9,3,907.16,Durable Stapler,Office Supplies
+153,57,37,2,575.69,Classic Board Game,Toys & Games
+154,57,13,2,936.93,All-Weather Ball,Sports & Outdoors
+155,57,42,3,874.95,Vintage Shirt,Clothing
+156,57,17,3,437.4,Executive Pen Set,Office Supplies
+157,58,24,3,116.35,Wireless TV,Electronics
+158,58,14,2,945.75,Modern Sofa,Furniture
+159,58,47,1,275.32,Limited Edition Self-Help Book,Books
+160,59,7,2,669.73,Bestselling Biography,Books
+161,59,49,1,971.24,Creative Board Game,Toys & Games
+162,59,19,1,470.88,Compact Vacuum,Home Appliances
+163,60,40,3,185.38,Ergonomic Cabinet,Furniture
+164,60,7,3,669.73,Bestselling Biography,Books
+165,60,29,2,869.43,Casual Shirt,Clothing
+166,60,32,1,881.19,Ceramic Mixer,Kitchen
+167,60,36,2,432.44,Energy-efficient Fan,Home Appliances
+168,61,8,2,620.77,Casual Jeans,Clothing
+169,61,28,2,513.64,Recycled Pen Set,Office Supplies
+170,62,17,1,437.4,Executive Pen Set,Office Supplies
+171,62,44,2,36.41,Wooden Cabinet,Furniture
+172,63,50,1,609.91,Wireless Smartwatch,Electronics
+173,63,1,3,657.49,Educational Doll,Toys & Games
+174,64,50,3,609.91,Wireless Smartwatch,Electronics
+175,64,19,1,470.88,Compact Vacuum,Home Appliances
+176,64,1,2,657.49,Educational Doll,Toys & Games
+177,65,28,2,513.64,Recycled Pen Set,Office Supplies
+178,65,17,1,437.4,Executive Pen Set,Office Supplies
+179,65,9,2,907.16,Durable Stapler,Office Supplies
+180,65,27,3,33.26,Professional Shampoo,Beauty & Personal Care
+181,65,24,2,116.35,Wireless TV,Electronics
+182,66,28,1,513.64,Recycled Pen Set,Office Supplies
+183,67,16,1,164.09,Classic Puzzle,Toys & Games
+184,67,18,1,218.27,Hardcover Biography,Books
+185,67,40,3,185.38,Ergonomic Cabinet,Furniture
+186,68,45,3,500.45,Electric Cookware Set,Kitchen
+187,69,1,1,657.49,Educational Doll,Toys & Games
+188,69,50,3,609.91,Wireless Smartwatch,Electronics
+189,70,5,1,217.67,Classic Board Game,Toys & Games
+190,70,10,1,224.96,Portable TV,Electronics
+191,71,18,3,218.27,Hardcover Biography,Books
+192,71,22,2,315.8,Premium Organizer,Office Supplies
+193,72,1,2,657.49,Educational Doll,Toys & Games
+194,72,50,2,609.91,Wireless Smartwatch,Electronics
+195,72,19,3,470.88,Compact Vacuum,Home Appliances
+196,73,30,2,144.69,Illustrated Self-Help Book,Books
+197,73,32,2,881.19,Ceramic Mixer,Kitchen
+198,73,17,3,437.4,Executive Pen Set,Office Supplies
+199,73,44,1,36.41,Wooden Cabinet,Furniture
+200,74,46,1,186.25,Natural Hair Dryer,Beauty & Personal Care
+201,74,41,2,572.96,Lightweight Tent,Sports & Outdoors
+202,74,23,3,853.43,Compact Cabinet,Furniture
+203,75,28,2,513.64,Recycled Pen Set,Office Supplies
+204,76,23,1,853.43,Compact Cabinet,Furniture
+205,76,38,2,898.61,Organic Moisturizer,Beauty & Personal Care
+206,77,49,1,971.24,Creative Board Game,Toys & Games
+207,77,42,2,874.95,Vintage Shirt,Clothing
+208,77,35,2,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+209,77,40,1,185.38,Ergonomic Cabinet,Furniture
+210,78,16,1,164.09,Classic Puzzle,Toys & Games
+211,78,26,3,27.02,Portable Fitness Tracker,Sports & Outdoors
+212,78,48,1,353.38,Portable Bicycle,Sports & Outdoors
+213,78,13,1,936.93,All-Weather Ball,Sports & Outdoors
+214,79,50,2,609.91,Wireless Smartwatch,Electronics
+215,79,1,2,657.49,Educational Doll,Toys & Games
+216,80,50,3,609.91,Wireless Smartwatch,Electronics
+217,80,1,2,657.49,Educational Doll,Toys & Games
+218,81,7,3,669.73,Bestselling Biography,Books
+219,81,50,3,609.91,Wireless Smartwatch,Electronics
+220,82,16,2,164.09,Classic Puzzle,Toys & Games
+221,82,41,2,572.96,Lightweight Tent,Sports & Outdoors
+222,83,9,1,907.16,Durable Stapler,Office Supplies
+223,83,28,3,513.64,Recycled Pen Set,Office Supplies
+224,83,17,3,437.4,Executive Pen Set,Office Supplies
+225,83,25,1,255.44,All-Weather Tent,Sports & Outdoors
+226,84,28,2,513.64,Recycled Pen Set,Office Supplies
+227,84,49,2,971.24,Creative Board Game,Toys & Games
+228,84,50,2,609.91,Wireless Smartwatch,Electronics
+229,85,28,2,513.64,Recycled Pen Set,Office Supplies
+230,85,9,1,907.16,Durable Stapler,Office Supplies
+231,85,17,2,437.4,Executive Pen Set,Office Supplies
+232,86,4,3,692.96,Vintage T-shirt,Clothing
+233,87,32,2,881.19,Ceramic Mixer,Kitchen
+234,87,43,2,871.0,Electric Toaster,Kitchen
+235,88,42,3,874.95,Vintage Shirt,Clothing
+236,88,49,2,971.24,Creative Board Game,Toys & Games
+237,89,50,1,609.91,Wireless Smartwatch,Electronics
+238,89,7,3,669.73,Bestselling Biography,Books
+239,89,48,3,353.38,Portable Bicycle,Sports & Outdoors
+240,89,6,3,969.12,Professional Ball,Sports & Outdoors
+241,89,47,3,275.32,Limited Edition Self-Help Book,Books
+242,90,33,1,872.23,Durable Backpack,Sports & Outdoors
+243,90,41,3,572.96,Lightweight Tent,Sports & Outdoors
+244,90,16,1,164.09,Classic Puzzle,Toys & Games
+245,91,1,3,657.49,Educational Doll,Toys & Games
+246,92,38,3,898.61,Organic Moisturizer,Beauty & Personal Care
+247,92,23,3,853.43,Compact Cabinet,Furniture
+248,92,10,2,224.96,Portable TV,Electronics
+249,93,19,2,470.88,Compact Vacuum,Home Appliances
+250,93,1,3,657.49,Educational Doll,Toys & Games
+251,93,50,1,609.91,Wireless Smartwatch,Electronics
+252,93,25,2,255.44,All-Weather Tent,Sports & Outdoors
+253,94,19,2,470.88,Compact Vacuum,Home Appliances
+254,94,39,2,426.93,Ergonomic Cabinet,Furniture
+255,95,24,2,116.35,Wireless TV,Electronics
+256,95,7,1,669.73,Bestselling Biography,Books
+257,96,8,2,620.77,Casual Jeans,Clothing
+258,96,27,2,33.26,Professional Shampoo,Beauty & Personal Care
+259,96,28,2,513.64,Recycled Pen Set,Office Supplies
+260,97,25,3,255.44,All-Weather Tent,Sports & Outdoors
+261,97,45,2,500.45,Electric Cookware Set,Kitchen
+262,97,37,1,575.69,Classic Board Game,Toys & Games
+263,97,34,3,581.47,Natural Moisturizer,Beauty & Personal Care
+264,97,20,1,269.58,Interactive Building Blocks,Toys & Games
+265,98,4,2,692.96,Vintage T-shirt,Clothing
+266,98,24,2,116.35,Wireless TV,Electronics
+267,99,5,3,217.67,Classic Board Game,Toys & Games
+268,100,26,1,27.02,Portable Fitness Tracker,Sports & Outdoors
+269,100,28,3,513.64,Recycled Pen Set,Office Supplies
+270,101,28,1,513.64,Recycled Pen Set,Office Supplies
+271,101,17,1,437.4,Executive Pen Set,Office Supplies
+272,101,9,2,907.16,Durable Stapler,Office Supplies
+273,102,23,3,853.43,Compact Cabinet,Furniture
+274,102,35,2,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+275,103,18,2,218.27,Hardcover Biography,Books
+276,103,6,1,969.12,Professional Ball,Sports & Outdoors
+277,104,21,2,330.45,Smart Heater,Home Appliances
+278,105,20,1,269.58,Interactive Building Blocks,Toys & Games
+279,105,7,1,669.73,Bestselling Biography,Books
+280,105,30,3,144.69,Illustrated Self-Help Book,Books
+281,105,8,3,620.77,Casual Jeans,Clothing
+282,106,4,1,692.96,Vintage T-shirt,Clothing
+283,107,40,1,185.38,Ergonomic Cabinet,Furniture
+284,107,47,1,275.32,Limited Edition Self-Help Book,Books
+285,108,32,1,881.19,Ceramic Mixer,Kitchen
+286,108,43,1,871.0,Electric Toaster,Kitchen
+287,108,2,3,58.73,Ceramic Blender,Kitchen
+288,109,32,2,881.19,Ceramic Mixer,Kitchen
+289,110,28,2,513.64,Recycled Pen Set,Office Supplies
+290,110,17,2,437.4,Executive Pen Set,Office Supplies
+291,111,44,2,36.41,Wooden Cabinet,Furniture
+292,111,46,3,186.25,Natural Hair Dryer,Beauty & Personal Care
+293,111,29,3,869.43,Casual Shirt,Clothing
+294,112,32,1,881.19,Ceramic Mixer,Kitchen
+295,112,43,2,871.0,Electric Toaster,Kitchen
+296,112,2,2,58.73,Ceramic Blender,Kitchen
+297,112,6,1,969.12,Professional Ball,Sports & Outdoors
+298,112,24,3,116.35,Wireless TV,Electronics
+299,113,43,3,871.0,Electric Toaster,Kitchen
+300,113,2,2,58.73,Ceramic Blender,Kitchen
+301,113,32,3,881.19,Ceramic Mixer,Kitchen
+302,113,38,1,898.61,Organic Moisturizer,Beauty & Personal Care
+303,113,45,2,500.45,Electric Cookware Set,Kitchen
+304,114,24,3,116.35,Wireless TV,Electronics
+305,114,32,2,881.19,Ceramic Mixer,Kitchen
+306,115,8,2,620.77,Casual Jeans,Clothing
+307,115,18,3,218.27,Hardcover Biography,Books
+308,115,47,1,275.32,Limited Edition Self-Help Book,Books
+309,115,17,1,437.4,Executive Pen Set,Office Supplies
+310,116,22,2,315.8,Premium Organizer,Office Supplies
+311,116,40,3,185.38,Ergonomic Cabinet,Furniture
+312,116,49,2,971.24,Creative Board Game,Toys & Games
+313,117,29,2,869.43,Casual Shirt,Clothing
+314,117,22,1,315.8,Premium Organizer,Office Supplies
+315,117,5,3,217.67,Classic Board Game,Toys & Games
+316,118,3,2,380.13,Luxury Moisturizer,Beauty & Personal Care
+317,118,22,1,315.8,Premium Organizer,Office Supplies
+318,118,25,2,255.44,All-Weather Tent,Sports & Outdoors
+319,119,14,1,945.75,Modern Sofa,Furniture
+320,119,37,3,575.69,Classic Board Game,Toys & Games
+321,120,15,2,670.76,Vintage Jacket,Clothing
+322,121,43,2,871.0,Electric Toaster,Kitchen
+323,121,2,1,58.73,Ceramic Blender,Kitchen
+324,121,32,1,881.19,Ceramic Mixer,Kitchen
+325,122,18,2,218.27,Hardcover Biography,Books
+326,122,8,1,620.77,Casual Jeans,Clothing
+327,123,32,1,881.19,Ceramic Mixer,Kitchen
+328,123,43,2,871.0,Electric Toaster,Kitchen
+329,123,2,3,58.73,Ceramic Blender,Kitchen
+330,124,14,3,945.75,Modern Sofa,Furniture
+331,125,1,3,657.49,Educational Doll,Toys & Games
+332,125,19,1,470.88,Compact Vacuum,Home Appliances
+333,125,50,2,609.91,Wireless Smartwatch,Electronics
+334,125,7,2,669.73,Bestselling Biography,Books
+335,125,38,1,898.61,Organic Moisturizer,Beauty & Personal Care
+336,126,24,1,116.35,Wireless TV,Electronics
+337,127,29,1,869.43,Casual Shirt,Clothing
+338,127,49,1,971.24,Creative Board Game,Toys & Games
+339,127,40,1,185.38,Ergonomic Cabinet,Furniture
+340,127,21,2,330.45,Smart Heater,Home Appliances
+341,128,15,1,670.76,Vintage Jacket,Clothing
+342,129,35,3,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+343,129,20,2,269.58,Interactive Building Blocks,Toys & Games
+344,129,40,1,185.38,Ergonomic Cabinet,Furniture
+345,130,25,3,255.44,All-Weather Tent,Sports & Outdoors
+346,130,49,2,971.24,Creative Board Game,Toys & Games
+347,130,16,3,164.09,Classic Puzzle,Toys & Games
+348,130,6,3,969.12,Professional Ball,Sports & Outdoors
+349,130,5,3,217.67,Classic Board Game,Toys & Games
+350,131,44,3,36.41,Wooden Cabinet,Furniture
+351,131,30,2,144.69,Illustrated Self-Help Book,Books
+352,131,16,2,164.09,Classic Puzzle,Toys & Games
+353,132,3,3,380.13,Luxury Moisturizer,Beauty & Personal Care
+354,132,17,3,437.4,Executive Pen Set,Office Supplies
+355,132,15,2,670.76,Vintage Jacket,Clothing
+356,133,7,2,669.73,Bestselling Biography,Books
+357,133,46,1,186.25,Natural Hair Dryer,Beauty & Personal Care
+358,133,35,2,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+359,133,31,2,11.91,Formal Jeans,Clothing
+360,133,13,1,936.93,All-Weather Ball,Sports & Outdoors
+361,134,34,1,581.47,Natural Moisturizer,Beauty & Personal Care
+362,134,50,1,609.91,Wireless Smartwatch,Electronics
+363,134,12,2,853.97,Designer Shirt,Clothing
+364,134,25,2,255.44,All-Weather Tent,Sports & Outdoors
+365,135,43,1,871.0,Electric Toaster,Kitchen
+366,135,2,1,58.73,Ceramic Blender,Kitchen
+367,136,26,2,27.02,Portable Fitness Tracker,Sports & Outdoors
+368,137,44,3,36.41,Wooden Cabinet,Furniture
+369,137,27,1,33.26,Professional Shampoo,Beauty & Personal Care
+370,137,21,2,330.45,Smart Heater,Home Appliances
+371,137,7,1,669.73,Bestselling Biography,Books
+372,137,47,2,275.32,Limited Edition Self-Help Book,Books
+373,138,50,1,609.91,Wireless Smartwatch,Electronics
+374,138,29,2,869.43,Casual Shirt,Clothing
+375,139,2,1,58.73,Ceramic Blender,Kitchen
+376,139,43,2,871.0,Electric Toaster,Kitchen
+377,139,32,3,881.19,Ceramic Mixer,Kitchen
+378,140,6,1,969.12,Professional Ball,Sports & Outdoors
+379,141,19,2,470.88,Compact Vacuum,Home Appliances
+380,141,2,2,58.73,Ceramic Blender,Kitchen
+381,141,44,3,36.41,Wooden Cabinet,Furniture
+382,141,34,2,581.47,Natural Moisturizer,Beauty & Personal Care
+383,142,7,1,669.73,Bestselling Biography,Books
+384,142,28,3,513.64,Recycled Pen Set,Office Supplies
+385,142,16,3,164.09,Classic Puzzle,Toys & Games
+386,143,43,2,871.0,Electric Toaster,Kitchen
+387,144,1,3,657.49,Educational Doll,Toys & Games
+388,144,49,1,971.24,Creative Board Game,Toys & Games
+389,145,4,1,692.96,Vintage T-shirt,Clothing
+390,145,24,2,116.35,Wireless TV,Electronics
+391,145,36,2,432.44,Energy-efficient Fan,Home Appliances
+392,146,29,3,869.43,Casual Shirt,Clothing
+393,146,19,1,470.88,Compact Vacuum,Home Appliances
+394,146,2,1,58.73,Ceramic Blender,Kitchen
+395,147,46,2,186.25,Natural Hair Dryer,Beauty & Personal Care
+396,147,25,2,255.44,All-Weather Tent,Sports & Outdoors
+397,147,33,2,872.23,Durable Backpack,Sports & Outdoors
+398,148,19,2,470.88,Compact Vacuum,Home Appliances
+399,148,1,2,657.49,Educational Doll,Toys & Games
+400,148,50,3,609.91,Wireless Smartwatch,Electronics
+401,148,49,1,971.24,Creative Board Game,Toys & Games
+402,149,32,2,881.19,Ceramic Mixer,Kitchen
+403,149,2,2,58.73,Ceramic Blender,Kitchen
+404,149,43,3,871.0,Electric Toaster,Kitchen
+405,150,9,1,907.16,Durable Stapler,Office Supplies
+406,151,24,2,116.35,Wireless TV,Electronics
+407,151,23,1,853.43,Compact Cabinet,Furniture
+408,152,26,1,27.02,Portable Fitness Tracker,Sports & Outdoors
+409,152,48,1,353.38,Portable Bicycle,Sports & Outdoors
+410,153,33,1,872.23,Durable Backpack,Sports & Outdoors
+411,153,6,3,969.12,Professional Ball,Sports & Outdoors
+412,153,35,2,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+413,153,27,1,33.26,Professional Shampoo,Beauty & Personal Care
+414,154,28,3,513.64,Recycled Pen Set,Office Supplies
+415,154,9,2,907.16,Durable Stapler,Office Supplies
+416,154,17,3,437.4,Executive Pen Set,Office Supplies
+417,154,25,2,255.44,All-Weather Tent,Sports & Outdoors
+418,154,11,1,798.89,Electronic Puzzle,Toys & Games
+419,155,32,1,881.19,Ceramic Mixer,Kitchen
+420,156,46,2,186.25,Natural Hair Dryer,Beauty & Personal Care
+421,156,17,3,437.4,Executive Pen Set,Office Supplies
+422,157,36,2,432.44,Energy-efficient Fan,Home Appliances
+423,158,5,2,217.67,Classic Board Game,Toys & Games
+424,158,9,3,907.16,Durable Stapler,Office Supplies
+425,159,8,1,620.77,Casual Jeans,Clothing
+426,159,44,2,36.41,Wooden Cabinet,Furniture
+427,159,42,3,874.95,Vintage Shirt,Clothing
+428,160,40,3,185.38,Ergonomic Cabinet,Furniture
+429,161,30,2,144.69,Illustrated Self-Help Book,Books
+430,161,39,3,426.93,Ergonomic Cabinet,Furniture
+431,161,41,2,572.96,Lightweight Tent,Sports & Outdoors
+432,162,50,1,609.91,Wireless Smartwatch,Electronics
+433,163,30,2,144.69,Illustrated Self-Help Book,Books
+434,163,12,1,853.97,Designer Shirt,Clothing
+435,163,32,1,881.19,Ceramic Mixer,Kitchen
+436,164,2,3,58.73,Ceramic Blender,Kitchen
+437,164,43,3,871.0,Electric Toaster,Kitchen
+438,164,32,3,881.19,Ceramic Mixer,Kitchen
+439,165,41,1,572.96,Lightweight Tent,Sports & Outdoors
+440,165,24,2,116.35,Wireless TV,Electronics
+441,166,35,3,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+442,166,36,1,432.44,Energy-efficient Fan,Home Appliances
+443,166,28,3,513.64,Recycled Pen Set,Office Supplies
+444,166,21,3,330.45,Smart Heater,Home Appliances
+445,166,9,3,907.16,Durable Stapler,Office Supplies
+446,167,11,1,798.89,Electronic Puzzle,Toys & Games
+447,167,8,2,620.77,Casual Jeans,Clothing
+448,167,29,2,869.43,Casual Shirt,Clothing
+449,168,30,2,144.69,Illustrated Self-Help Book,Books
+450,168,37,2,575.69,Classic Board Game,Toys & Games
+451,168,38,1,898.61,Organic Moisturizer,Beauty & Personal Care
+452,168,10,2,224.96,Portable TV,Electronics
+453,169,28,3,513.64,Recycled Pen Set,Office Supplies
+454,169,9,3,907.16,Durable Stapler,Office Supplies
+455,170,28,3,513.64,Recycled Pen Set,Office Supplies
+456,170,17,1,437.4,Executive Pen Set,Office Supplies
+457,170,9,3,907.16,Durable Stapler,Office Supplies
+458,171,50,2,609.91,Wireless Smartwatch,Electronics
+459,171,1,2,657.49,Educational Doll,Toys & Games
+460,172,18,2,218.27,Hardcover Biography,Books
+461,172,22,2,315.8,Premium Organizer,Office Supplies
+462,172,25,3,255.44,All-Weather Tent,Sports & Outdoors
+463,172,6,1,969.12,Professional Ball,Sports & Outdoors
+464,173,50,1,609.91,Wireless Smartwatch,Electronics
+465,173,33,3,872.23,Durable Backpack,Sports & Outdoors
+466,174,43,3,871.0,Electric Toaster,Kitchen
+467,174,32,3,881.19,Ceramic Mixer,Kitchen
+468,175,32,2,881.19,Ceramic Mixer,Kitchen
+469,175,2,2,58.73,Ceramic Blender,Kitchen
+470,175,43,3,871.0,Electric Toaster,Kitchen
+471,176,43,3,871.0,Electric Toaster,Kitchen
+472,176,25,2,255.44,All-Weather Tent,Sports & Outdoors
+473,176,28,2,513.64,Recycled Pen Set,Office Supplies
+474,177,32,3,881.19,Ceramic Mixer,Kitchen
+475,177,4,2,692.96,Vintage T-shirt,Clothing
+476,177,36,1,432.44,Energy-efficient Fan,Home Appliances
+477,177,22,3,315.8,Premium Organizer,Office Supplies
+478,178,6,3,969.12,Professional Ball,Sports & Outdoors
+479,178,43,3,871.0,Electric Toaster,Kitchen
+480,178,17,3,437.4,Executive Pen Set,Office Supplies
+481,178,22,3,315.8,Premium Organizer,Office Supplies
+482,179,50,3,609.91,Wireless Smartwatch,Electronics
+483,179,1,3,657.49,Educational Doll,Toys & Games
+484,179,19,3,470.88,Compact Vacuum,Home Appliances
+485,179,45,3,500.45,Electric Cookware Set,Kitchen
+486,180,43,1,871.0,Electric Toaster,Kitchen
+487,180,32,2,881.19,Ceramic Mixer,Kitchen
+488,180,2,2,58.73,Ceramic Blender,Kitchen
+489,180,11,1,798.89,Electronic Puzzle,Toys & Games
+490,181,17,3,437.4,Executive Pen Set,Office Supplies
+491,181,9,1,907.16,Durable Stapler,Office Supplies
+492,182,8,3,620.77,Casual Jeans,Clothing
+493,182,45,1,500.45,Electric Cookware Set,Kitchen
+494,182,50,2,609.91,Wireless Smartwatch,Electronics
+495,182,42,1,874.95,Vintage Shirt,Clothing
+496,182,43,3,871.0,Electric Toaster,Kitchen
+497,183,17,2,437.4,Executive Pen Set,Office Supplies
+498,184,9,1,907.16,Durable Stapler,Office Supplies
+499,185,9,3,907.16,Durable Stapler,Office Supplies
+500,185,17,3,437.4,Executive Pen Set,Office Supplies
+501,185,28,2,513.64,Recycled Pen Set,Office Supplies
+502,186,43,1,871.0,Electric Toaster,Kitchen
+503,186,32,1,881.19,Ceramic Mixer,Kitchen
+504,187,43,2,871.0,Electric Toaster,Kitchen
+505,187,2,3,58.73,Ceramic Blender,Kitchen
+506,188,41,1,572.96,Lightweight Tent,Sports & Outdoors
+507,189,39,2,426.93,Ergonomic Cabinet,Furniture
+508,189,5,2,217.67,Classic Board Game,Toys & Games
+509,189,3,3,380.13,Luxury Moisturizer,Beauty & Personal Care
+510,189,42,1,874.95,Vintage Shirt,Clothing
+511,189,10,1,224.96,Portable TV,Electronics
+512,190,31,3,11.91,Formal Jeans,Clothing
+513,191,25,3,255.44,All-Weather Tent,Sports & Outdoors
+514,192,23,3,853.43,Compact Cabinet,Furniture
+515,192,18,3,218.27,Hardcover Biography,Books
+516,193,6,3,969.12,Professional Ball,Sports & Outdoors
+517,193,39,2,426.93,Ergonomic Cabinet,Furniture
+518,194,48,3,353.38,Portable Bicycle,Sports & Outdoors
+519,194,23,1,853.43,Compact Cabinet,Furniture
+520,195,17,2,437.4,Executive Pen Set,Office Supplies
+521,195,4,2,692.96,Vintage T-shirt,Clothing
+522,195,11,2,798.89,Electronic Puzzle,Toys & Games
+523,196,15,3,670.76,Vintage Jacket,Clothing
+524,196,9,2,907.16,Durable Stapler,Office Supplies
+525,196,24,1,116.35,Wireless TV,Electronics
+526,197,32,2,881.19,Ceramic Mixer,Kitchen
+527,197,1,1,657.49,Educational Doll,Toys & Games
+528,198,17,3,437.4,Executive Pen Set,Office Supplies
+529,198,28,3,513.64,Recycled Pen Set,Office Supplies
+530,199,45,1,500.45,Electric Cookware Set,Kitchen
+531,199,2,1,58.73,Ceramic Blender,Kitchen
+532,199,34,1,581.47,Natural Moisturizer,Beauty & Personal Care
+533,200,2,2,58.73,Ceramic Blender,Kitchen
+534,200,32,1,881.19,Ceramic Mixer,Kitchen
+535,201,43,3,871.0,Electric Toaster,Kitchen
+536,201,32,2,881.19,Ceramic Mixer,Kitchen
+537,201,2,2,58.73,Ceramic Blender,Kitchen
+538,201,19,2,470.88,Compact Vacuum,Home Appliances
+539,202,39,1,426.93,Ergonomic Cabinet,Furniture
+540,203,47,2,275.32,Limited Edition Self-Help Book,Books
+541,203,37,3,575.69,Classic Board Game,Toys & Games
+542,204,6,1,969.12,Professional Ball,Sports & Outdoors
+543,204,32,2,881.19,Ceramic Mixer,Kitchen
+544,204,1,2,657.49,Educational Doll,Toys & Games
+545,204,12,2,853.97,Designer Shirt,Clothing
+546,205,32,1,881.19,Ceramic Mixer,Kitchen
+547,205,37,3,575.69,Classic Board Game,Toys & Games
+548,205,39,1,426.93,Ergonomic Cabinet,Furniture
+549,206,8,3,620.77,Casual Jeans,Clothing
+550,206,46,3,186.25,Natural Hair Dryer,Beauty & Personal Care
+551,206,48,3,353.38,Portable Bicycle,Sports & Outdoors
+552,207,20,1,269.58,Interactive Building Blocks,Toys & Games
+553,208,18,1,218.27,Hardcover Biography,Books
+554,208,4,2,692.96,Vintage T-shirt,Clothing
+555,209,3,3,380.13,Luxury Moisturizer,Beauty & Personal Care
+556,209,15,3,670.76,Vintage Jacket,Clothing
+557,210,50,1,609.91,Wireless Smartwatch,Electronics
+558,210,19,3,470.88,Compact Vacuum,Home Appliances
+559,211,9,2,907.16,Durable Stapler,Office Supplies
+560,211,17,3,437.4,Executive Pen Set,Office Supplies
+561,211,28,1,513.64,Recycled Pen Set,Office Supplies
+562,212,37,3,575.69,Classic Board Game,Toys & Games
+563,212,28,2,513.64,Recycled Pen Set,Office Supplies
+564,213,46,3,186.25,Natural Hair Dryer,Beauty & Personal Care
+565,213,16,1,164.09,Classic Puzzle,Toys & Games
+566,213,28,3,513.64,Recycled Pen Set,Office Supplies
+567,213,9,1,907.16,Durable Stapler,Office Supplies
+568,214,43,2,871.0,Electric Toaster,Kitchen
+569,214,2,2,58.73,Ceramic Blender,Kitchen
+570,214,32,2,881.19,Ceramic Mixer,Kitchen
+571,214,48,3,353.38,Portable Bicycle,Sports & Outdoors
+572,214,16,3,164.09,Classic Puzzle,Toys & Games
+573,215,28,1,513.64,Recycled Pen Set,Office Supplies
+574,215,17,3,437.4,Executive Pen Set,Office Supplies
+575,216,32,1,881.19,Ceramic Mixer,Kitchen
+576,217,29,1,869.43,Casual Shirt,Clothing
+577,218,9,1,907.16,Durable Stapler,Office Supplies
+578,218,28,3,513.64,Recycled Pen Set,Office Supplies
+579,219,19,2,470.88,Compact Vacuum,Home Appliances
+580,219,15,3,670.76,Vintage Jacket,Clothing
+581,219,6,1,969.12,Professional Ball,Sports & Outdoors
+582,220,43,2,871.0,Electric Toaster,Kitchen
+583,220,46,3,186.25,Natural Hair Dryer,Beauty & Personal Care
+584,221,23,1,853.43,Compact Cabinet,Furniture
+585,221,9,3,907.16,Durable Stapler,Office Supplies
+586,222,28,3,513.64,Recycled Pen Set,Office Supplies
+587,223,26,1,27.02,Portable Fitness Tracker,Sports & Outdoors
+588,223,34,2,581.47,Natural Moisturizer,Beauty & Personal Care
+589,223,30,2,144.69,Illustrated Self-Help Book,Books
+590,223,22,2,315.8,Premium Organizer,Office Supplies
+591,223,49,1,971.24,Creative Board Game,Toys & Games
+592,224,11,3,798.89,Electronic Puzzle,Toys & Games
+593,224,43,1,871.0,Electric Toaster,Kitchen
+594,225,17,1,437.4,Executive Pen Set,Office Supplies
+595,226,32,2,881.19,Ceramic Mixer,Kitchen
+596,226,27,2,33.26,Professional Shampoo,Beauty & Personal Care
+597,226,35,2,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+598,227,14,1,945.75,Modern Sofa,Furniture
+599,228,28,3,513.64,Recycled Pen Set,Office Supplies
+600,228,17,1,437.4,Executive Pen Set,Office Supplies
+601,229,43,3,871.0,Electric Toaster,Kitchen
+602,229,2,3,58.73,Ceramic Blender,Kitchen
+603,229,32,1,881.19,Ceramic Mixer,Kitchen
+604,229,21,1,330.45,Smart Heater,Home Appliances
+605,230,2,2,58.73,Ceramic Blender,Kitchen
+606,230,31,2,11.91,Formal Jeans,Clothing
+607,230,27,2,33.26,Professional Shampoo,Beauty & Personal Care
+608,230,47,2,275.32,Limited Edition Self-Help Book,Books
+609,231,19,3,470.88,Compact Vacuum,Home Appliances
+610,231,50,1,609.91,Wireless Smartwatch,Electronics
+611,232,29,2,869.43,Casual Shirt,Clothing
+612,232,37,3,575.69,Classic Board Game,Toys & Games
+613,233,26,1,27.02,Portable Fitness Tracker,Sports & Outdoors
+614,233,7,1,669.73,Bestselling Biography,Books
+615,233,18,2,218.27,Hardcover Biography,Books
+616,234,47,3,275.32,Limited Edition Self-Help Book,Books
+617,235,50,2,609.91,Wireless Smartwatch,Electronics
+618,235,19,1,470.88,Compact Vacuum,Home Appliances
+619,236,43,1,871.0,Electric Toaster,Kitchen
+620,237,24,1,116.35,Wireless TV,Electronics
+621,237,9,1,907.16,Durable Stapler,Office Supplies
+622,238,1,2,657.49,Educational Doll,Toys & Games
+623,238,50,3,609.91,Wireless Smartwatch,Electronics
+624,238,19,3,470.88,Compact Vacuum,Home Appliances
+625,238,2,2,58.73,Ceramic Blender,Kitchen
+626,238,24,2,116.35,Wireless TV,Electronics
+627,239,2,3,58.73,Ceramic Blender,Kitchen
+628,239,32,3,881.19,Ceramic Mixer,Kitchen
+629,240,33,3,872.23,Durable Backpack,Sports & Outdoors
+630,241,28,3,513.64,Recycled Pen Set,Office Supplies
+631,241,17,2,437.4,Executive Pen Set,Office Supplies
+632,242,40,1,185.38,Ergonomic Cabinet,Furniture
+633,243,13,1,936.93,All-Weather Ball,Sports & Outdoors
+634,243,16,2,164.09,Classic Puzzle,Toys & Games
+635,244,9,2,907.16,Durable Stapler,Office Supplies
+636,244,17,1,437.4,Executive Pen Set,Office Supplies
+637,245,50,1,609.91,Wireless Smartwatch,Electronics
+638,245,19,1,470.88,Compact Vacuum,Home Appliances
+639,245,1,1,657.49,Educational Doll,Toys & Games
+640,245,11,1,798.89,Electronic Puzzle,Toys & Games
+641,245,24,2,116.35,Wireless TV,Electronics
+642,246,9,3,907.16,Durable Stapler,Office Supplies
+643,246,17,1,437.4,Executive Pen Set,Office Supplies
+644,247,24,3,116.35,Wireless TV,Electronics
+645,248,38,2,898.61,Organic Moisturizer,Beauty & Personal Care
+646,249,38,1,898.61,Organic Moisturizer,Beauty & Personal Care
+647,249,37,1,575.69,Classic Board Game,Toys & Games
+648,249,29,1,869.43,Casual Shirt,Clothing
+649,249,30,3,144.69,Illustrated Self-Help Book,Books
+650,249,34,1,581.47,Natural Moisturizer,Beauty & Personal Care
+651,250,2,1,58.73,Ceramic Blender,Kitchen
+652,250,14,3,945.75,Modern Sofa,Furniture
+653,251,4,1,692.96,Vintage T-shirt,Clothing
+654,252,5,1,217.67,Classic Board Game,Toys & Games
+655,252,16,2,164.09,Classic Puzzle,Toys & Games
+656,253,15,2,670.76,Vintage Jacket,Clothing
+657,253,7,3,669.73,Bestselling Biography,Books
+658,253,50,2,609.91,Wireless Smartwatch,Electronics
+659,254,28,3,513.64,Recycled Pen Set,Office Supplies
+660,254,17,1,437.4,Executive Pen Set,Office Supplies
+661,255,43,1,871.0,Electric Toaster,Kitchen
+662,256,32,3,881.19,Ceramic Mixer,Kitchen
+663,257,43,2,871.0,Electric Toaster,Kitchen
+664,257,32,2,881.19,Ceramic Mixer,Kitchen
+665,257,2,1,58.73,Ceramic Blender,Kitchen
+666,258,37,1,575.69,Classic Board Game,Toys & Games
+667,258,44,1,36.41,Wooden Cabinet,Furniture
+668,258,25,1,255.44,All-Weather Tent,Sports & Outdoors
+669,259,17,2,437.4,Executive Pen Set,Office Supplies
+670,259,7,2,669.73,Bestselling Biography,Books
+671,259,36,3,432.44,Energy-efficient Fan,Home Appliances
+672,259,35,3,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+673,260,18,2,218.27,Hardcover Biography,Books
+674,261,2,2,58.73,Ceramic Blender,Kitchen
+675,261,32,1,881.19,Ceramic Mixer,Kitchen
+676,261,43,2,871.0,Electric Toaster,Kitchen
+677,261,28,3,513.64,Recycled Pen Set,Office Supplies
+678,261,16,2,164.09,Classic Puzzle,Toys & Games
+679,262,19,3,470.88,Compact Vacuum,Home Appliances
+680,262,1,3,657.49,Educational Doll,Toys & Games
+681,263,32,1,881.19,Ceramic Mixer,Kitchen
+682,263,43,1,871.0,Electric Toaster,Kitchen
+683,263,2,3,58.73,Ceramic Blender,Kitchen
+684,264,25,1,255.44,All-Weather Tent,Sports & Outdoors
+685,265,32,1,881.19,Ceramic Mixer,Kitchen
+686,266,28,2,513.64,Recycled Pen Set,Office Supplies
+687,266,9,2,907.16,Durable Stapler,Office Supplies
+688,267,6,1,969.12,Professional Ball,Sports & Outdoors
+689,267,34,2,581.47,Natural Moisturizer,Beauty & Personal Care
+690,267,21,3,330.45,Smart Heater,Home Appliances
+691,268,19,1,470.88,Compact Vacuum,Home Appliances
+692,268,50,3,609.91,Wireless Smartwatch,Electronics
+693,269,2,3,58.73,Ceramic Blender,Kitchen
+694,270,5,1,217.67,Classic Board Game,Toys & Games
+695,270,40,1,185.38,Ergonomic Cabinet,Furniture
+696,270,46,3,186.25,Natural Hair Dryer,Beauty & Personal Care
+697,270,39,1,426.93,Ergonomic Cabinet,Furniture
+698,271,41,3,572.96,Lightweight Tent,Sports & Outdoors
+699,271,24,2,116.35,Wireless TV,Electronics
+700,272,21,3,330.45,Smart Heater,Home Appliances
+701,273,50,1,609.91,Wireless Smartwatch,Electronics
+702,273,19,3,470.88,Compact Vacuum,Home Appliances
+703,273,1,2,657.49,Educational Doll,Toys & Games
+704,274,9,2,907.16,Durable Stapler,Office Supplies
+705,274,17,2,437.4,Executive Pen Set,Office Supplies
+706,274,28,1,513.64,Recycled Pen Set,Office Supplies
+707,274,40,2,185.38,Ergonomic Cabinet,Furniture
+708,275,31,1,11.91,Formal Jeans,Clothing
+709,276,9,1,907.16,Durable Stapler,Office Supplies
+710,276,16,1,164.09,Classic Puzzle,Toys & Games
+711,277,37,2,575.69,Classic Board Game,Toys & Games
+712,277,9,3,907.16,Durable Stapler,Office Supplies
+713,277,8,1,620.77,Casual Jeans,Clothing
+714,277,27,1,33.26,Professional Shampoo,Beauty & Personal Care
+715,278,32,2,881.19,Ceramic Mixer,Kitchen
+716,278,14,1,945.75,Modern Sofa,Furniture
+717,278,34,3,581.47,Natural Moisturizer,Beauty & Personal Care
+718,279,23,1,853.43,Compact Cabinet,Furniture
+719,279,7,2,669.73,Bestselling Biography,Books
+720,280,41,3,572.96,Lightweight Tent,Sports & Outdoors
+721,281,1,1,657.49,Educational Doll,Toys & Games
+722,282,50,1,609.91,Wireless Smartwatch,Electronics
+723,282,1,3,657.49,Educational Doll,Toys & Games
+724,282,19,3,470.88,Compact Vacuum,Home Appliances
+725,282,22,1,315.8,Premium Organizer,Office Supplies
+726,283,32,1,881.19,Ceramic Mixer,Kitchen
+727,283,2,1,58.73,Ceramic Blender,Kitchen
+728,283,43,2,871.0,Electric Toaster,Kitchen
+729,284,9,3,907.16,Durable Stapler,Office Supplies
+730,284,28,1,513.64,Recycled Pen Set,Office Supplies
+731,285,28,3,513.64,Recycled Pen Set,Office Supplies
+732,285,7,3,669.73,Bestselling Biography,Books
+733,285,40,2,185.38,Ergonomic Cabinet,Furniture
+734,286,6,1,969.12,Professional Ball,Sports & Outdoors
+735,287,50,3,609.91,Wireless Smartwatch,Electronics
+736,288,10,1,224.96,Portable TV,Electronics
+737,289,50,2,609.91,Wireless Smartwatch,Electronics
+738,290,1,2,657.49,Educational Doll,Toys & Games
+739,290,19,2,470.88,Compact Vacuum,Home Appliances
+740,291,4,1,692.96,Vintage T-shirt,Clothing
+741,291,31,1,11.91,Formal Jeans,Clothing
+742,291,16,2,164.09,Classic Puzzle,Toys & Games
+743,291,30,2,144.69,Illustrated Self-Help Book,Books
+744,291,23,2,853.43,Compact Cabinet,Furniture
+745,292,39,3,426.93,Ergonomic Cabinet,Furniture
+746,292,30,2,144.69,Illustrated Self-Help Book,Books
+747,293,9,1,907.16,Durable Stapler,Office Supplies
+748,293,28,2,513.64,Recycled Pen Set,Office Supplies
+749,293,17,1,437.4,Executive Pen Set,Office Supplies
+750,293,16,2,164.09,Classic Puzzle,Toys & Games
+751,293,43,1,871.0,Electric Toaster,Kitchen
+752,294,38,3,898.61,Organic Moisturizer,Beauty & Personal Care
+753,294,43,1,871.0,Electric Toaster,Kitchen
+754,294,13,3,936.93,All-Weather Ball,Sports & Outdoors
+755,294,39,1,426.93,Ergonomic Cabinet,Furniture
+756,294,23,2,853.43,Compact Cabinet,Furniture
+757,295,9,1,907.16,Durable Stapler,Office Supplies
+758,295,17,1,437.4,Executive Pen Set,Office Supplies
+759,296,32,2,881.19,Ceramic Mixer,Kitchen
+760,296,43,3,871.0,Electric Toaster,Kitchen
+761,296,2,3,58.73,Ceramic Blender,Kitchen
+762,296,47,2,275.32,Limited Edition Self-Help Book,Books
+763,296,1,2,657.49,Educational Doll,Toys & Games
+764,297,38,2,898.61,Organic Moisturizer,Beauty & Personal Care
+765,298,19,2,470.88,Compact Vacuum,Home Appliances
+766,299,3,2,380.13,Luxury Moisturizer,Beauty & Personal Care
+767,300,17,1,437.4,Executive Pen Set,Office Supplies
+768,300,28,3,513.64,Recycled Pen Set,Office Supplies
+769,300,9,2,907.16,Durable Stapler,Office Supplies
+770,301,21,1,330.45,Smart Heater,Home Appliances
+771,301,20,3,269.58,Interactive Building Blocks,Toys & Games
+772,301,31,1,11.91,Formal Jeans,Clothing
+773,301,24,2,116.35,Wireless TV,Electronics
+774,301,6,2,969.12,Professional Ball,Sports & Outdoors
+775,302,19,1,470.88,Compact Vacuum,Home Appliances
+776,302,37,3,575.69,Classic Board Game,Toys & Games
+777,303,19,2,470.88,Compact Vacuum,Home Appliances
+778,303,50,2,609.91,Wireless Smartwatch,Electronics
+779,303,1,2,657.49,Educational Doll,Toys & Games
+780,303,36,3,432.44,Energy-efficient Fan,Home Appliances
+781,304,2,2,58.73,Ceramic Blender,Kitchen
+782,304,43,3,871.0,Electric Toaster,Kitchen
+783,305,41,2,572.96,Lightweight Tent,Sports & Outdoors
+784,305,19,2,470.88,Compact Vacuum,Home Appliances
+785,305,8,1,620.77,Casual Jeans,Clothing
+786,306,28,3,513.64,Recycled Pen Set,Office Supplies
+787,306,9,3,907.16,Durable Stapler,Office Supplies
+788,306,17,3,437.4,Executive Pen Set,Office Supplies
+789,306,47,2,275.32,Limited Edition Self-Help Book,Books
+790,306,2,1,58.73,Ceramic Blender,Kitchen
+791,307,17,3,437.4,Executive Pen Set,Office Supplies
+792,307,28,3,513.64,Recycled Pen Set,Office Supplies
+793,307,9,1,907.16,Durable Stapler,Office Supplies
+794,307,39,1,426.93,Ergonomic Cabinet,Furniture
+795,307,29,2,869.43,Casual Shirt,Clothing
+796,308,1,2,657.49,Educational Doll,Toys & Games
+797,308,19,1,470.88,Compact Vacuum,Home Appliances
+798,308,50,3,609.91,Wireless Smartwatch,Electronics
+799,308,16,3,164.09,Classic Puzzle,Toys & Games
+800,309,32,1,881.19,Ceramic Mixer,Kitchen
+801,309,2,1,58.73,Ceramic Blender,Kitchen
+802,310,19,3,470.88,Compact Vacuum,Home Appliances
+803,310,1,3,657.49,Educational Doll,Toys & Games
+804,311,43,1,871.0,Electric Toaster,Kitchen
+805,312,19,2,470.88,Compact Vacuum,Home Appliances
+806,312,8,1,620.77,Casual Jeans,Clothing
+807,312,44,1,36.41,Wooden Cabinet,Furniture
+808,313,50,3,609.91,Wireless Smartwatch,Electronics
+809,313,1,1,657.49,Educational Doll,Toys & Games
+810,314,3,1,380.13,Luxury Moisturizer,Beauty & Personal Care
+811,314,35,1,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+812,314,13,1,936.93,All-Weather Ball,Sports & Outdoors
+813,315,26,1,27.02,Portable Fitness Tracker,Sports & Outdoors
+814,315,16,3,164.09,Classic Puzzle,Toys & Games
+815,315,33,3,872.23,Durable Backpack,Sports & Outdoors
+816,315,11,1,798.89,Electronic Puzzle,Toys & Games
+817,315,43,2,871.0,Electric Toaster,Kitchen
+818,316,40,1,185.38,Ergonomic Cabinet,Furniture
+819,316,13,2,936.93,All-Weather Ball,Sports & Outdoors
+820,316,47,1,275.32,Limited Edition Self-Help Book,Books
+821,316,9,2,907.16,Durable Stapler,Office Supplies
+822,317,1,2,657.49,Educational Doll,Toys & Games
+823,317,19,2,470.88,Compact Vacuum,Home Appliances
+824,317,50,1,609.91,Wireless Smartwatch,Electronics
+825,317,44,2,36.41,Wooden Cabinet,Furniture
+826,317,11,3,798.89,Electronic Puzzle,Toys & Games
+827,318,15,2,670.76,Vintage Jacket,Clothing
+828,318,45,2,500.45,Electric Cookware Set,Kitchen
+829,319,24,3,116.35,Wireless TV,Electronics
+830,319,16,1,164.09,Classic Puzzle,Toys & Games
+831,319,30,2,144.69,Illustrated Self-Help Book,Books
+832,319,41,3,572.96,Lightweight Tent,Sports & Outdoors
+833,319,38,2,898.61,Organic Moisturizer,Beauty & Personal Care
+834,320,19,3,470.88,Compact Vacuum,Home Appliances
+835,320,50,3,609.91,Wireless Smartwatch,Electronics
+836,320,1,3,657.49,Educational Doll,Toys & Games
+837,321,39,3,426.93,Ergonomic Cabinet,Furniture
+838,321,45,3,500.45,Electric Cookware Set,Kitchen
+839,322,50,2,609.91,Wireless Smartwatch,Electronics
+840,322,19,1,470.88,Compact Vacuum,Home Appliances
+841,322,1,2,657.49,Educational Doll,Toys & Games
+842,323,34,1,581.47,Natural Moisturizer,Beauty & Personal Care
+843,323,28,2,513.64,Recycled Pen Set,Office Supplies
+844,323,38,2,898.61,Organic Moisturizer,Beauty & Personal Care
+845,324,34,2,581.47,Natural Moisturizer,Beauty & Personal Care
+846,324,40,3,185.38,Ergonomic Cabinet,Furniture
+847,325,43,2,871.0,Electric Toaster,Kitchen
+848,325,32,1,881.19,Ceramic Mixer,Kitchen
+849,326,15,1,670.76,Vintage Jacket,Clothing
+850,326,21,3,330.45,Smart Heater,Home Appliances
+851,327,43,1,871.0,Electric Toaster,Kitchen
+852,327,32,1,881.19,Ceramic Mixer,Kitchen
+853,327,2,3,58.73,Ceramic Blender,Kitchen
+854,327,48,1,353.38,Portable Bicycle,Sports & Outdoors
+855,327,5,3,217.67,Classic Board Game,Toys & Games
+856,328,17,1,437.4,Executive Pen Set,Office Supplies
+857,329,9,3,907.16,Durable Stapler,Office Supplies
+858,329,28,1,513.64,Recycled Pen Set,Office Supplies
+859,329,17,1,437.4,Executive Pen Set,Office Supplies
+860,329,34,3,581.47,Natural Moisturizer,Beauty & Personal Care
+861,330,19,1,470.88,Compact Vacuum,Home Appliances
+862,330,1,1,657.49,Educational Doll,Toys & Games
+863,330,50,1,609.91,Wireless Smartwatch,Electronics
+864,331,6,2,969.12,Professional Ball,Sports & Outdoors
+865,331,27,1,33.26,Professional Shampoo,Beauty & Personal Care
+866,331,1,1,657.49,Educational Doll,Toys & Games
+867,331,9,1,907.16,Durable Stapler,Office Supplies
+868,331,26,3,27.02,Portable Fitness Tracker,Sports & Outdoors
+869,332,11,1,798.89,Electronic Puzzle,Toys & Games
+870,332,26,3,27.02,Portable Fitness Tracker,Sports & Outdoors
+871,332,7,3,669.73,Bestselling Biography,Books
+872,332,50,1,609.91,Wireless Smartwatch,Electronics
+873,333,8,3,620.77,Casual Jeans,Clothing
+874,334,38,2,898.61,Organic Moisturizer,Beauty & Personal Care
+875,334,37,3,575.69,Classic Board Game,Toys & Games
+876,335,32,2,881.19,Ceramic Mixer,Kitchen
+877,335,43,1,871.0,Electric Toaster,Kitchen
+878,335,2,1,58.73,Ceramic Blender,Kitchen
+879,336,14,3,945.75,Modern Sofa,Furniture
+880,336,15,1,670.76,Vintage Jacket,Clothing
+881,337,28,3,513.64,Recycled Pen Set,Office Supplies
+882,337,9,2,907.16,Durable Stapler,Office Supplies
+883,338,8,1,620.77,Casual Jeans,Clothing
+884,339,1,1,657.49,Educational Doll,Toys & Games
+885,339,19,2,470.88,Compact Vacuum,Home Appliances
+886,339,50,1,609.91,Wireless Smartwatch,Electronics
+887,340,22,2,315.8,Premium Organizer,Office Supplies
+888,340,38,3,898.61,Organic Moisturizer,Beauty & Personal Care
+889,341,1,3,657.49,Educational Doll,Toys & Games
+890,341,50,1,609.91,Wireless Smartwatch,Electronics
+891,341,19,1,470.88,Compact Vacuum,Home Appliances
+892,342,9,2,907.16,Durable Stapler,Office Supplies
+893,342,17,1,437.4,Executive Pen Set,Office Supplies
+894,342,28,1,513.64,Recycled Pen Set,Office Supplies
+895,342,45,3,500.45,Electric Cookware Set,Kitchen
+896,342,24,1,116.35,Wireless TV,Electronics
+897,343,9,1,907.16,Durable Stapler,Office Supplies
+898,343,28,1,513.64,Recycled Pen Set,Office Supplies
+899,344,19,3,470.88,Compact Vacuum,Home Appliances
+900,344,50,3,609.91,Wireless Smartwatch,Electronics
+901,344,1,3,657.49,Educational Doll,Toys & Games
+902,345,41,2,572.96,Lightweight Tent,Sports & Outdoors
+903,345,28,2,513.64,Recycled Pen Set,Office Supplies
+904,345,42,1,874.95,Vintage Shirt,Clothing
+905,345,9,2,907.16,Durable Stapler,Office Supplies
+906,345,5,2,217.67,Classic Board Game,Toys & Games
+907,346,17,2,437.4,Executive Pen Set,Office Supplies
+908,346,28,2,513.64,Recycled Pen Set,Office Supplies
+909,347,17,2,437.4,Executive Pen Set,Office Supplies
+910,347,9,2,907.16,Durable Stapler,Office Supplies
+911,347,28,2,513.64,Recycled Pen Set,Office Supplies
+912,348,17,3,437.4,Executive Pen Set,Office Supplies
+913,348,28,2,513.64,Recycled Pen Set,Office Supplies
+914,349,21,1,330.45,Smart Heater,Home Appliances
+915,349,10,1,224.96,Portable TV,Electronics
+916,349,5,3,217.67,Classic Board Game,Toys & Games
+917,350,50,1,609.91,Wireless Smartwatch,Electronics
+918,351,7,1,669.73,Bestselling Biography,Books
+919,351,46,1,186.25,Natural Hair Dryer,Beauty & Personal Care
+920,351,50,3,609.91,Wireless Smartwatch,Electronics
+921,351,34,1,581.47,Natural Moisturizer,Beauty & Personal Care
+922,352,2,2,58.73,Ceramic Blender,Kitchen
+923,352,32,1,881.19,Ceramic Mixer,Kitchen
+924,353,20,3,269.58,Interactive Building Blocks,Toys & Games
+925,353,49,1,971.24,Creative Board Game,Toys & Games
+926,354,2,1,58.73,Ceramic Blender,Kitchen
+927,354,32,2,881.19,Ceramic Mixer,Kitchen
+928,354,43,1,871.0,Electric Toaster,Kitchen
+929,354,8,2,620.77,Casual Jeans,Clothing
+930,355,9,3,907.16,Durable Stapler,Office Supplies
+931,355,17,3,437.4,Executive Pen Set,Office Supplies
+932,355,12,2,853.97,Designer Shirt,Clothing
+933,356,47,2,275.32,Limited Edition Self-Help Book,Books
+934,356,4,2,692.96,Vintage T-shirt,Clothing
+935,356,28,1,513.64,Recycled Pen Set,Office Supplies
+936,357,32,3,881.19,Ceramic Mixer,Kitchen
+937,357,43,1,871.0,Electric Toaster,Kitchen
+938,357,2,3,58.73,Ceramic Blender,Kitchen
+939,357,40,1,185.38,Ergonomic Cabinet,Furniture
+940,357,47,1,275.32,Limited Edition Self-Help Book,Books
+941,358,9,1,907.16,Durable Stapler,Office Supplies
+942,358,28,2,513.64,Recycled Pen Set,Office Supplies
+943,358,17,3,437.4,Executive Pen Set,Office Supplies
+944,358,31,3,11.91,Formal Jeans,Clothing
+945,359,35,1,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+946,359,46,1,186.25,Natural Hair Dryer,Beauty & Personal Care
+947,360,3,1,380.13,Luxury Moisturizer,Beauty & Personal Care
+948,360,49,3,971.24,Creative Board Game,Toys & Games
+949,361,50,3,609.91,Wireless Smartwatch,Electronics
+950,361,19,1,470.88,Compact Vacuum,Home Appliances
+951,362,17,1,437.4,Executive Pen Set,Office Supplies
+952,362,43,1,871.0,Electric Toaster,Kitchen
+953,363,32,3,881.19,Ceramic Mixer,Kitchen
+954,363,2,2,58.73,Ceramic Blender,Kitchen
+955,363,43,1,871.0,Electric Toaster,Kitchen
+956,364,33,1,872.23,Durable Backpack,Sports & Outdoors
+957,364,39,2,426.93,Ergonomic Cabinet,Furniture
+958,364,11,2,798.89,Electronic Puzzle,Toys & Games
+959,364,35,2,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+960,365,42,2,874.95,Vintage Shirt,Clothing
+961,366,45,3,500.45,Electric Cookware Set,Kitchen
+962,366,12,1,853.97,Designer Shirt,Clothing
+963,367,50,2,609.91,Wireless Smartwatch,Electronics
+964,367,13,3,936.93,All-Weather Ball,Sports & Outdoors
+965,367,21,2,330.45,Smart Heater,Home Appliances
+966,368,1,2,657.49,Educational Doll,Toys & Games
+967,368,50,2,609.91,Wireless Smartwatch,Electronics
+968,368,19,3,470.88,Compact Vacuum,Home Appliances
+969,369,1,1,657.49,Educational Doll,Toys & Games
+970,369,50,3,609.91,Wireless Smartwatch,Electronics
+971,369,19,1,470.88,Compact Vacuum,Home Appliances
+972,370,31,1,11.91,Formal Jeans,Clothing
+973,371,25,1,255.44,All-Weather Tent,Sports & Outdoors
+974,372,35,2,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+975,373,48,3,353.38,Portable Bicycle,Sports & Outdoors
+976,373,15,2,670.76,Vintage Jacket,Clothing
+977,373,18,2,218.27,Hardcover Biography,Books
+978,373,12,1,853.97,Designer Shirt,Clothing
+979,374,50,3,609.91,Wireless Smartwatch,Electronics
+980,375,6,1,969.12,Professional Ball,Sports & Outdoors
+981,376,33,3,872.23,Durable Backpack,Sports & Outdoors
+982,376,49,2,971.24,Creative Board Game,Toys & Games
+983,376,29,3,869.43,Casual Shirt,Clothing
+984,376,13,2,936.93,All-Weather Ball,Sports & Outdoors
+985,376,23,2,853.43,Compact Cabinet,Furniture
+986,377,2,3,58.73,Ceramic Blender,Kitchen
+987,377,32,3,881.19,Ceramic Mixer,Kitchen
+988,378,1,3,657.49,Educational Doll,Toys & Games
+989,378,50,1,609.91,Wireless Smartwatch,Electronics
+990,378,19,2,470.88,Compact Vacuum,Home Appliances
+991,378,46,3,186.25,Natural Hair Dryer,Beauty & Personal Care
+992,379,13,2,936.93,All-Weather Ball,Sports & Outdoors
+993,379,19,1,470.88,Compact Vacuum,Home Appliances
+994,379,9,3,907.16,Durable Stapler,Office Supplies
+995,379,39,3,426.93,Ergonomic Cabinet,Furniture
+996,379,21,2,330.45,Smart Heater,Home Appliances
+997,380,1,3,657.49,Educational Doll,Toys & Games
+998,380,35,1,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+999,381,9,3,907.16,Durable Stapler,Office Supplies
+1000,381,17,3,437.4,Executive Pen Set,Office Supplies
+1001,381,28,3,513.64,Recycled Pen Set,Office Supplies
+1002,381,37,1,575.69,Classic Board Game,Toys & Games
+1003,381,23,3,853.43,Compact Cabinet,Furniture
+1004,382,9,1,907.16,Durable Stapler,Office Supplies
+1005,382,28,1,513.64,Recycled Pen Set,Office Supplies
+1006,382,17,1,437.4,Executive Pen Set,Office Supplies
+1007,383,5,3,217.67,Classic Board Game,Toys & Games
+1008,383,47,2,275.32,Limited Edition Self-Help Book,Books
+1009,383,11,3,798.89,Electronic Puzzle,Toys & Games
+1010,384,20,3,269.58,Interactive Building Blocks,Toys & Games
+1011,385,9,2,907.16,Durable Stapler,Office Supplies
+1012,385,17,1,437.4,Executive Pen Set,Office Supplies
+1013,386,3,2,380.13,Luxury Moisturizer,Beauty & Personal Care
+1014,387,17,1,437.4,Executive Pen Set,Office Supplies
+1015,387,9,2,907.16,Durable Stapler,Office Supplies
+1016,387,28,3,513.64,Recycled Pen Set,Office Supplies
+1017,388,14,2,945.75,Modern Sofa,Furniture
+1018,388,50,1,609.91,Wireless Smartwatch,Electronics
+1019,388,6,2,969.12,Professional Ball,Sports & Outdoors
+1020,389,19,3,470.88,Compact Vacuum,Home Appliances
+1021,389,50,1,609.91,Wireless Smartwatch,Electronics
+1022,389,1,2,657.49,Educational Doll,Toys & Games
+1023,389,36,2,432.44,Energy-efficient Fan,Home Appliances
+1024,389,43,2,871.0,Electric Toaster,Kitchen
+1025,390,50,1,609.91,Wireless Smartwatch,Electronics
+1026,391,31,1,11.91,Formal Jeans,Clothing
+1027,392,20,1,269.58,Interactive Building Blocks,Toys & Games
+1028,392,39,3,426.93,Ergonomic Cabinet,Furniture
+1029,393,19,3,470.88,Compact Vacuum,Home Appliances
+1030,394,32,3,881.19,Ceramic Mixer,Kitchen
+1031,394,8,3,620.77,Casual Jeans,Clothing
+1032,395,19,3,470.88,Compact Vacuum,Home Appliances
+1033,395,37,2,575.69,Classic Board Game,Toys & Games
+1034,395,10,3,224.96,Portable TV,Electronics
+1035,396,28,3,513.64,Recycled Pen Set,Office Supplies
+1036,396,17,3,437.4,Executive Pen Set,Office Supplies
+1037,396,9,1,907.16,Durable Stapler,Office Supplies
+1038,397,36,3,432.44,Energy-efficient Fan,Home Appliances
+1039,397,10,1,224.96,Portable TV,Electronics
+1040,398,45,3,500.45,Electric Cookware Set,Kitchen
+1041,399,26,1,27.02,Portable Fitness Tracker,Sports & Outdoors
+1042,400,43,2,871.0,Electric Toaster,Kitchen
+1043,400,2,1,58.73,Ceramic Blender,Kitchen
+1044,400,32,3,881.19,Ceramic Mixer,Kitchen
+1045,400,5,1,217.67,Classic Board Game,Toys & Games
+1046,401,3,2,380.13,Luxury Moisturizer,Beauty & Personal Care
+1047,401,21,2,330.45,Smart Heater,Home Appliances
+1048,401,20,3,269.58,Interactive Building Blocks,Toys & Games
+1049,401,16,2,164.09,Classic Puzzle,Toys & Games
+1050,402,40,1,185.38,Ergonomic Cabinet,Furniture
+1051,403,31,2,11.91,Formal Jeans,Clothing
+1052,403,19,1,470.88,Compact Vacuum,Home Appliances
+1053,404,11,1,798.89,Electronic Puzzle,Toys & Games
+1054,404,45,2,500.45,Electric Cookware Set,Kitchen
+1055,405,44,2,36.41,Wooden Cabinet,Furniture
+1056,405,22,2,315.8,Premium Organizer,Office Supplies
+1057,405,40,1,185.38,Ergonomic Cabinet,Furniture
+1058,406,1,3,657.49,Educational Doll,Toys & Games
+1059,406,23,2,853.43,Compact Cabinet,Furniture
+1060,406,5,1,217.67,Classic Board Game,Toys & Games
+1061,407,25,2,255.44,All-Weather Tent,Sports & Outdoors
+1062,408,32,2,881.19,Ceramic Mixer,Kitchen
+1063,408,20,1,269.58,Interactive Building Blocks,Toys & Games
+1064,409,25,2,255.44,All-Weather Tent,Sports & Outdoors
+1065,409,46,1,186.25,Natural Hair Dryer,Beauty & Personal Care
+1066,410,31,3,11.91,Formal Jeans,Clothing
+1067,410,28,3,513.64,Recycled Pen Set,Office Supplies
+1068,411,14,1,945.75,Modern Sofa,Furniture
+1069,411,15,2,670.76,Vintage Jacket,Clothing
+1070,411,16,2,164.09,Classic Puzzle,Toys & Games
+1071,411,7,3,669.73,Bestselling Biography,Books
+1072,411,18,1,218.27,Hardcover Biography,Books
+1073,412,20,3,269.58,Interactive Building Blocks,Toys & Games
+1074,412,49,3,971.24,Creative Board Game,Toys & Games
+1075,412,13,1,936.93,All-Weather Ball,Sports & Outdoors
+1076,412,47,2,275.32,Limited Edition Self-Help Book,Books
+1077,413,26,1,27.02,Portable Fitness Tracker,Sports & Outdoors
+1078,414,46,2,186.25,Natural Hair Dryer,Beauty & Personal Care
+1079,414,1,3,657.49,Educational Doll,Toys & Games
+1080,414,4,2,692.96,Vintage T-shirt,Clothing
+1081,415,14,1,945.75,Modern Sofa,Furniture
+1082,415,13,1,936.93,All-Weather Ball,Sports & Outdoors
+1083,416,43,3,871.0,Electric Toaster,Kitchen
+1084,416,32,3,881.19,Ceramic Mixer,Kitchen
+1085,416,2,3,58.73,Ceramic Blender,Kitchen
+1086,416,11,1,798.89,Electronic Puzzle,Toys & Games
+1087,417,28,3,513.64,Recycled Pen Set,Office Supplies
+1088,417,4,2,692.96,Vintage T-shirt,Clothing
+1089,417,29,1,869.43,Casual Shirt,Clothing
+1090,417,11,1,798.89,Electronic Puzzle,Toys & Games
+1091,417,8,2,620.77,Casual Jeans,Clothing
+1092,418,11,3,798.89,Electronic Puzzle,Toys & Games
+1093,418,49,2,971.24,Creative Board Game,Toys & Games
+1094,418,3,2,380.13,Luxury Moisturizer,Beauty & Personal Care
+1095,418,31,2,11.91,Formal Jeans,Clothing
+1096,418,8,3,620.77,Casual Jeans,Clothing
+1097,419,9,1,907.16,Durable Stapler,Office Supplies
+1098,419,17,2,437.4,Executive Pen Set,Office Supplies
+1099,420,42,1,874.95,Vintage Shirt,Clothing
+1100,420,9,2,907.16,Durable Stapler,Office Supplies
+1101,420,18,2,218.27,Hardcover Biography,Books
+1102,420,10,3,224.96,Portable TV,Electronics
+1103,421,2,2,58.73,Ceramic Blender,Kitchen
+1104,421,43,2,871.0,Electric Toaster,Kitchen
+1105,421,32,3,881.19,Ceramic Mixer,Kitchen
+1106,422,18,1,218.27,Hardcover Biography,Books
+1107,422,10,2,224.96,Portable TV,Electronics
+1108,422,30,1,144.69,Illustrated Self-Help Book,Books
+1109,423,43,2,871.0,Electric Toaster,Kitchen
+1110,423,41,1,572.96,Lightweight Tent,Sports & Outdoors
+1111,424,22,3,315.8,Premium Organizer,Office Supplies
+1112,424,15,2,670.76,Vintage Jacket,Clothing
+1113,425,34,2,581.47,Natural Moisturizer,Beauty & Personal Care
+1114,425,36,1,432.44,Energy-efficient Fan,Home Appliances
+1115,426,27,2,33.26,Professional Shampoo,Beauty & Personal Care
+1116,426,22,2,315.8,Premium Organizer,Office Supplies
+1117,426,50,2,609.91,Wireless Smartwatch,Electronics
+1118,427,50,1,609.91,Wireless Smartwatch,Electronics
+1119,427,11,3,798.89,Electronic Puzzle,Toys & Games
+1120,428,19,2,470.88,Compact Vacuum,Home Appliances
+1121,428,1,3,657.49,Educational Doll,Toys & Games
+1122,428,50,3,609.91,Wireless Smartwatch,Electronics
+1123,429,43,3,871.0,Electric Toaster,Kitchen
+1124,430,14,1,945.75,Modern Sofa,Furniture
+1125,430,36,3,432.44,Energy-efficient Fan,Home Appliances
+1126,431,19,3,470.88,Compact Vacuum,Home Appliances
+1127,431,50,3,609.91,Wireless Smartwatch,Electronics
+1128,432,34,2,581.47,Natural Moisturizer,Beauty & Personal Care
+1129,432,28,3,513.64,Recycled Pen Set,Office Supplies
+1130,432,12,2,853.97,Designer Shirt,Clothing
+1131,432,42,1,874.95,Vintage Shirt,Clothing
+1132,432,2,2,58.73,Ceramic Blender,Kitchen
+1133,433,31,3,11.91,Formal Jeans,Clothing
+1134,433,4,2,692.96,Vintage T-shirt,Clothing
+1135,434,7,3,669.73,Bestselling Biography,Books
+1136,434,46,2,186.25,Natural Hair Dryer,Beauty & Personal Care
+1137,435,2,3,58.73,Ceramic Blender,Kitchen
+1138,435,43,2,871.0,Electric Toaster,Kitchen
+1139,435,32,3,881.19,Ceramic Mixer,Kitchen
+1140,435,11,3,798.89,Electronic Puzzle,Toys & Games
+1141,436,20,1,269.58,Interactive Building Blocks,Toys & Games
+1142,436,21,3,330.45,Smart Heater,Home Appliances
+1143,437,24,2,116.35,Wireless TV,Electronics
+1144,437,2,1,58.73,Ceramic Blender,Kitchen
+1145,437,45,2,500.45,Electric Cookware Set,Kitchen
+1146,437,10,2,224.96,Portable TV,Electronics
+1147,438,17,1,437.4,Executive Pen Set,Office Supplies
+1148,438,9,1,907.16,Durable Stapler,Office Supplies
+1149,438,28,3,513.64,Recycled Pen Set,Office Supplies
+1150,438,50,3,609.91,Wireless Smartwatch,Electronics
+1151,439,15,3,670.76,Vintage Jacket,Clothing
+1152,439,1,1,657.49,Educational Doll,Toys & Games
+1153,439,49,2,971.24,Creative Board Game,Toys & Games
+1154,439,46,1,186.25,Natural Hair Dryer,Beauty & Personal Care
+1155,440,37,2,575.69,Classic Board Game,Toys & Games
+1156,440,20,3,269.58,Interactive Building Blocks,Toys & Games
+1157,441,25,2,255.44,All-Weather Tent,Sports & Outdoors
+1158,441,7,3,669.73,Bestselling Biography,Books
+1159,441,28,3,513.64,Recycled Pen Set,Office Supplies
+1160,441,20,3,269.58,Interactive Building Blocks,Toys & Games
+1161,442,1,1,657.49,Educational Doll,Toys & Games
+1162,442,50,2,609.91,Wireless Smartwatch,Electronics
+1163,442,19,3,470.88,Compact Vacuum,Home Appliances
+1164,443,2,3,58.73,Ceramic Blender,Kitchen
+1165,443,43,3,871.0,Electric Toaster,Kitchen
+1166,443,32,1,881.19,Ceramic Mixer,Kitchen
+1167,443,37,3,575.69,Classic Board Game,Toys & Games
+1168,443,26,2,27.02,Portable Fitness Tracker,Sports & Outdoors
+1169,444,22,1,315.8,Premium Organizer,Office Supplies
+1170,444,15,2,670.76,Vintage Jacket,Clothing
+1171,445,37,3,575.69,Classic Board Game,Toys & Games
+1172,445,33,3,872.23,Durable Backpack,Sports & Outdoors
+1173,446,49,3,971.24,Creative Board Game,Toys & Games
+1174,446,32,2,881.19,Ceramic Mixer,Kitchen
+1175,447,2,1,58.73,Ceramic Blender,Kitchen
+1176,447,4,3,692.96,Vintage T-shirt,Clothing
+1177,448,9,1,907.16,Durable Stapler,Office Supplies
+1178,448,28,3,513.64,Recycled Pen Set,Office Supplies
+1179,449,1,3,657.49,Educational Doll,Toys & Games
+1180,449,50,3,609.91,Wireless Smartwatch,Electronics
+1181,450,43,1,871.0,Electric Toaster,Kitchen
+1182,450,32,3,881.19,Ceramic Mixer,Kitchen
+1183,451,1,2,657.49,Educational Doll,Toys & Games
+1184,451,19,2,470.88,Compact Vacuum,Home Appliances
+1185,451,50,3,609.91,Wireless Smartwatch,Electronics
+1186,452,3,1,380.13,Luxury Moisturizer,Beauty & Personal Care
+1187,452,2,1,58.73,Ceramic Blender,Kitchen
+1188,453,17,3,437.4,Executive Pen Set,Office Supplies
+1189,453,28,1,513.64,Recycled Pen Set,Office Supplies
+1190,454,10,3,224.96,Portable TV,Electronics
+1191,454,44,3,36.41,Wooden Cabinet,Furniture
+1192,454,14,2,945.75,Modern Sofa,Furniture
+1193,455,2,3,58.73,Ceramic Blender,Kitchen
+1194,455,27,3,33.26,Professional Shampoo,Beauty & Personal Care
+1195,455,39,1,426.93,Ergonomic Cabinet,Furniture
+1196,455,31,3,11.91,Formal Jeans,Clothing
+1197,455,4,3,692.96,Vintage T-shirt,Clothing
+1198,456,16,3,164.09,Classic Puzzle,Toys & Games
+1199,456,11,2,798.89,Electronic Puzzle,Toys & Games
+1200,457,19,1,470.88,Compact Vacuum,Home Appliances
+1201,457,1,1,657.49,Educational Doll,Toys & Games
+1202,457,50,3,609.91,Wireless Smartwatch,Electronics
+1203,458,27,1,33.26,Professional Shampoo,Beauty & Personal Care
+1204,459,31,2,11.91,Formal Jeans,Clothing
+1205,460,50,2,609.91,Wireless Smartwatch,Electronics
+1206,460,1,3,657.49,Educational Doll,Toys & Games
+1207,461,9,1,907.16,Durable Stapler,Office Supplies
+1208,461,17,1,437.4,Executive Pen Set,Office Supplies
+1209,461,28,1,513.64,Recycled Pen Set,Office Supplies
+1210,462,50,1,609.91,Wireless Smartwatch,Electronics
+1211,462,19,1,470.88,Compact Vacuum,Home Appliances
+1212,462,1,1,657.49,Educational Doll,Toys & Games
+1213,463,6,1,969.12,Professional Ball,Sports & Outdoors
+1214,464,9,2,907.16,Durable Stapler,Office Supplies
+1215,465,1,1,657.49,Educational Doll,Toys & Games
+1216,466,43,2,871.0,Electric Toaster,Kitchen
+1217,466,32,2,881.19,Ceramic Mixer,Kitchen
+1218,466,2,1,58.73,Ceramic Blender,Kitchen
+1219,467,1,1,657.49,Educational Doll,Toys & Games
+1220,467,50,2,609.91,Wireless Smartwatch,Electronics
+1221,468,24,2,116.35,Wireless TV,Electronics
+1222,468,30,1,144.69,Illustrated Self-Help Book,Books
+1223,468,6,2,969.12,Professional Ball,Sports & Outdoors
+1224,469,47,2,275.32,Limited Edition Self-Help Book,Books
+1225,469,27,3,33.26,Professional Shampoo,Beauty & Personal Care
+1226,470,21,1,330.45,Smart Heater,Home Appliances
+1227,471,11,1,798.89,Electronic Puzzle,Toys & Games
+1228,472,32,2,881.19,Ceramic Mixer,Kitchen
+1229,472,43,1,871.0,Electric Toaster,Kitchen
+1230,472,2,1,58.73,Ceramic Blender,Kitchen
+1231,472,25,2,255.44,All-Weather Tent,Sports & Outdoors
+1232,473,14,3,945.75,Modern Sofa,Furniture
+1233,473,43,1,871.0,Electric Toaster,Kitchen
+1234,473,44,2,36.41,Wooden Cabinet,Furniture
+1235,474,46,3,186.25,Natural Hair Dryer,Beauty & Personal Care
+1236,474,8,3,620.77,Casual Jeans,Clothing
+1237,474,6,2,969.12,Professional Ball,Sports & Outdoors
+1238,474,14,2,945.75,Modern Sofa,Furniture
+1239,475,9,3,907.16,Durable Stapler,Office Supplies
+1240,475,28,1,513.64,Recycled Pen Set,Office Supplies
+1241,476,33,3,872.23,Durable Backpack,Sports & Outdoors
+1242,476,45,1,500.45,Electric Cookware Set,Kitchen
+1243,476,43,3,871.0,Electric Toaster,Kitchen
+1244,477,45,2,500.45,Electric Cookware Set,Kitchen
+1245,478,9,3,907.16,Durable Stapler,Office Supplies
+1246,479,34,1,581.47,Natural Moisturizer,Beauty & Personal Care
+1247,479,21,3,330.45,Smart Heater,Home Appliances
+1248,480,23,2,853.43,Compact Cabinet,Furniture
+1249,480,13,1,936.93,All-Weather Ball,Sports & Outdoors
+1250,480,12,3,853.97,Designer Shirt,Clothing
+1251,481,2,3,58.73,Ceramic Blender,Kitchen
+1252,481,32,2,881.19,Ceramic Mixer,Kitchen
+1253,481,43,1,871.0,Electric Toaster,Kitchen
+1254,481,39,2,426.93,Ergonomic Cabinet,Furniture
+1255,482,1,3,657.49,Educational Doll,Toys & Games
+1256,482,50,2,609.91,Wireless Smartwatch,Electronics
+1257,482,19,3,470.88,Compact Vacuum,Home Appliances
+1258,483,20,3,269.58,Interactive Building Blocks,Toys & Games
+1259,483,37,1,575.69,Classic Board Game,Toys & Games
+1260,484,50,1,609.91,Wireless Smartwatch,Electronics
+1261,484,19,2,470.88,Compact Vacuum,Home Appliances
+1262,484,1,1,657.49,Educational Doll,Toys & Games
+1263,485,41,1,572.96,Lightweight Tent,Sports & Outdoors
+1264,485,7,1,669.73,Bestselling Biography,Books
+1265,485,29,3,869.43,Casual Shirt,Clothing
+1266,486,22,2,315.8,Premium Organizer,Office Supplies
+1267,486,32,3,881.19,Ceramic Mixer,Kitchen
+1268,486,34,2,581.47,Natural Moisturizer,Beauty & Personal Care
+1269,486,8,2,620.77,Casual Jeans,Clothing
+1270,486,19,3,470.88,Compact Vacuum,Home Appliances
+1271,487,9,1,907.16,Durable Stapler,Office Supplies
+1272,487,28,3,513.64,Recycled Pen Set,Office Supplies
+1273,487,17,2,437.4,Executive Pen Set,Office Supplies
+1274,487,6,2,969.12,Professional Ball,Sports & Outdoors
+1275,488,8,2,620.77,Casual Jeans,Clothing
+1276,489,32,1,881.19,Ceramic Mixer,Kitchen
+1277,489,43,2,871.0,Electric Toaster,Kitchen
+1278,489,2,1,58.73,Ceramic Blender,Kitchen
+1279,490,50,2,609.91,Wireless Smartwatch,Electronics
+1280,490,1,2,657.49,Educational Doll,Toys & Games
+1281,491,43,3,871.0,Electric Toaster,Kitchen
+1282,491,32,1,881.19,Ceramic Mixer,Kitchen
+1283,491,12,2,853.97,Designer Shirt,Clothing
+1284,492,1,2,657.49,Educational Doll,Toys & Games
+1285,492,19,3,470.88,Compact Vacuum,Home Appliances
+1286,492,50,2,609.91,Wireless Smartwatch,Electronics
+1287,493,45,2,500.45,Electric Cookware Set,Kitchen
+1288,493,36,1,432.44,Energy-efficient Fan,Home Appliances
+1289,493,25,3,255.44,All-Weather Tent,Sports & Outdoors
+1290,493,8,1,620.77,Casual Jeans,Clothing
+1291,494,45,3,500.45,Electric Cookware Set,Kitchen
+1292,494,36,1,432.44,Energy-efficient Fan,Home Appliances
+1293,494,37,3,575.69,Classic Board Game,Toys & Games
+1294,494,23,2,853.43,Compact Cabinet,Furniture
+1295,495,50,2,609.91,Wireless Smartwatch,Electronics
+1296,496,17,1,437.4,Executive Pen Set,Office Supplies
+1297,497,39,1,426.93,Ergonomic Cabinet,Furniture
+1298,497,26,3,27.02,Portable Fitness Tracker,Sports & Outdoors
+1299,498,1,2,657.49,Educational Doll,Toys & Games
+1300,498,50,2,609.91,Wireless Smartwatch,Electronics
+1301,498,19,2,470.88,Compact Vacuum,Home Appliances
+1302,499,22,1,315.8,Premium Organizer,Office Supplies
+1303,499,9,2,907.16,Durable Stapler,Office Supplies
+1304,499,47,1,275.32,Limited Edition Self-Help Book,Books
+1305,499,23,2,853.43,Compact Cabinet,Furniture
+1306,500,38,3,898.61,Organic Moisturizer,Beauty & Personal Care
+1307,501,32,1,881.19,Ceramic Mixer,Kitchen
+1308,501,10,2,224.96,Portable TV,Electronics
+1309,502,9,3,907.16,Durable Stapler,Office Supplies
+1310,502,17,2,437.4,Executive Pen Set,Office Supplies
+1311,502,28,1,513.64,Recycled Pen Set,Office Supplies
+1312,503,1,1,657.49,Educational Doll,Toys & Games
+1313,503,5,1,217.67,Classic Board Game,Toys & Games
+1314,504,32,1,881.19,Ceramic Mixer,Kitchen
+1315,504,2,3,58.73,Ceramic Blender,Kitchen
+1316,504,43,2,871.0,Electric Toaster,Kitchen
+1317,504,46,3,186.25,Natural Hair Dryer,Beauty & Personal Care
+1318,505,17,1,437.4,Executive Pen Set,Office Supplies
+1319,505,9,1,907.16,Durable Stapler,Office Supplies
+1320,505,28,3,513.64,Recycled Pen Set,Office Supplies
+1321,506,45,3,500.45,Electric Cookware Set,Kitchen
+1322,506,32,1,881.19,Ceramic Mixer,Kitchen
+1323,507,43,2,871.0,Electric Toaster,Kitchen
+1324,507,2,3,58.73,Ceramic Blender,Kitchen
+1325,507,32,3,881.19,Ceramic Mixer,Kitchen
+1326,508,37,1,575.69,Classic Board Game,Toys & Games
+1327,509,43,3,871.0,Electric Toaster,Kitchen
+1328,510,1,2,657.49,Educational Doll,Toys & Games
+1329,510,26,1,27.02,Portable Fitness Tracker,Sports & Outdoors
+1330,510,32,2,881.19,Ceramic Mixer,Kitchen
+1331,511,33,1,872.23,Durable Backpack,Sports & Outdoors
+1332,511,22,1,315.8,Premium Organizer,Office Supplies
+1333,512,43,1,871.0,Electric Toaster,Kitchen
+1334,512,17,1,437.4,Executive Pen Set,Office Supplies
+1335,512,18,2,218.27,Hardcover Biography,Books
+1336,513,40,1,185.38,Ergonomic Cabinet,Furniture
+1337,513,8,2,620.77,Casual Jeans,Clothing
+1338,513,45,3,500.45,Electric Cookware Set,Kitchen
+1339,514,3,3,380.13,Luxury Moisturizer,Beauty & Personal Care
+1340,514,45,3,500.45,Electric Cookware Set,Kitchen
+1341,515,45,1,500.45,Electric Cookware Set,Kitchen
+1342,515,34,3,581.47,Natural Moisturizer,Beauty & Personal Care
+1343,516,30,2,144.69,Illustrated Self-Help Book,Books
+1344,516,6,2,969.12,Professional Ball,Sports & Outdoors
+1345,516,14,3,945.75,Modern Sofa,Furniture
+1346,517,32,3,881.19,Ceramic Mixer,Kitchen
+1347,517,43,1,871.0,Electric Toaster,Kitchen
+1348,518,25,1,255.44,All-Weather Tent,Sports & Outdoors
+1349,518,20,2,269.58,Interactive Building Blocks,Toys & Games
+1350,518,38,2,898.61,Organic Moisturizer,Beauty & Personal Care
+1351,519,2,3,58.73,Ceramic Blender,Kitchen
+1352,520,25,1,255.44,All-Weather Tent,Sports & Outdoors
+1353,520,12,2,853.97,Designer Shirt,Clothing
+1354,521,45,3,500.45,Electric Cookware Set,Kitchen
+1355,521,31,1,11.91,Formal Jeans,Clothing
+1356,522,8,1,620.77,Casual Jeans,Clothing
+1357,522,22,1,315.8,Premium Organizer,Office Supplies
+1358,522,15,1,670.76,Vintage Jacket,Clothing
+1359,523,28,3,513.64,Recycled Pen Set,Office Supplies
+1360,523,17,3,437.4,Executive Pen Set,Office Supplies
+1361,524,50,3,609.91,Wireless Smartwatch,Electronics
+1362,524,1,3,657.49,Educational Doll,Toys & Games
+1363,525,43,2,871.0,Electric Toaster,Kitchen
+1364,525,2,3,58.73,Ceramic Blender,Kitchen
+1365,526,31,3,11.91,Formal Jeans,Clothing
+1366,526,47,3,275.32,Limited Edition Self-Help Book,Books
+1367,526,34,2,581.47,Natural Moisturizer,Beauty & Personal Care
+1368,526,1,1,657.49,Educational Doll,Toys & Games
+1369,527,19,3,470.88,Compact Vacuum,Home Appliances
+1370,527,40,2,185.38,Ergonomic Cabinet,Furniture
+1371,527,26,2,27.02,Portable Fitness Tracker,Sports & Outdoors
+1372,527,3,2,380.13,Luxury Moisturizer,Beauty & Personal Care
+1373,527,29,2,869.43,Casual Shirt,Clothing
+1374,528,16,3,164.09,Classic Puzzle,Toys & Games
+1375,528,8,3,620.77,Casual Jeans,Clothing
+1376,529,1,1,657.49,Educational Doll,Toys & Games
+1377,530,31,1,11.91,Formal Jeans,Clothing
+1378,530,41,2,572.96,Lightweight Tent,Sports & Outdoors
+1379,530,23,1,853.43,Compact Cabinet,Furniture
+1380,531,2,1,58.73,Ceramic Blender,Kitchen
+1381,531,43,1,871.0,Electric Toaster,Kitchen
+1382,532,43,3,871.0,Electric Toaster,Kitchen
+1383,532,32,3,881.19,Ceramic Mixer,Kitchen
+1384,532,2,2,58.73,Ceramic Blender,Kitchen
+1385,532,40,1,185.38,Ergonomic Cabinet,Furniture
+1386,532,36,3,432.44,Energy-efficient Fan,Home Appliances
+1387,533,32,2,881.19,Ceramic Mixer,Kitchen
+1388,533,43,1,871.0,Electric Toaster,Kitchen
+1389,533,2,2,58.73,Ceramic Blender,Kitchen
+1390,533,16,2,164.09,Classic Puzzle,Toys & Games
+1391,534,2,2,58.73,Ceramic Blender,Kitchen
+1392,535,39,3,426.93,Ergonomic Cabinet,Furniture
+1393,535,42,3,874.95,Vintage Shirt,Clothing
+1394,536,7,2,669.73,Bestselling Biography,Books
+1395,536,23,3,853.43,Compact Cabinet,Furniture
+1396,536,35,3,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+1397,537,37,3,575.69,Classic Board Game,Toys & Games
+1398,537,19,2,470.88,Compact Vacuum,Home Appliances
+1399,538,38,3,898.61,Organic Moisturizer,Beauty & Personal Care
+1400,538,42,1,874.95,Vintage Shirt,Clothing
+1401,538,23,2,853.43,Compact Cabinet,Furniture
+1402,538,7,1,669.73,Bestselling Biography,Books
+1403,539,1,3,657.49,Educational Doll,Toys & Games
+1404,539,19,3,470.88,Compact Vacuum,Home Appliances
+1405,539,50,2,609.91,Wireless Smartwatch,Electronics
+1406,540,50,1,609.91,Wireless Smartwatch,Electronics
+1407,540,1,1,657.49,Educational Doll,Toys & Games
+1408,540,19,3,470.88,Compact Vacuum,Home Appliances
+1409,541,10,1,224.96,Portable TV,Electronics
+1410,541,36,1,432.44,Energy-efficient Fan,Home Appliances
+1411,542,28,2,513.64,Recycled Pen Set,Office Supplies
+1412,543,28,2,513.64,Recycled Pen Set,Office Supplies
+1413,543,17,2,437.4,Executive Pen Set,Office Supplies
+1414,543,9,2,907.16,Durable Stapler,Office Supplies
+1415,543,22,3,315.8,Premium Organizer,Office Supplies
+1416,544,43,1,871.0,Electric Toaster,Kitchen
+1417,545,43,1,871.0,Electric Toaster,Kitchen
+1418,545,2,3,58.73,Ceramic Blender,Kitchen
+1419,545,32,1,881.19,Ceramic Mixer,Kitchen
+1420,545,16,3,164.09,Classic Puzzle,Toys & Games
+1421,546,16,2,164.09,Classic Puzzle,Toys & Games
+1422,546,3,2,380.13,Luxury Moisturizer,Beauty & Personal Care
+1423,547,9,3,907.16,Durable Stapler,Office Supplies
+1424,547,17,3,437.4,Executive Pen Set,Office Supplies
+1425,548,36,2,432.44,Energy-efficient Fan,Home Appliances
+1426,548,19,3,470.88,Compact Vacuum,Home Appliances
+1427,548,4,3,692.96,Vintage T-shirt,Clothing
+1428,548,35,1,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+1429,549,50,3,609.91,Wireless Smartwatch,Electronics
+1430,549,1,2,657.49,Educational Doll,Toys & Games
+1431,549,19,3,470.88,Compact Vacuum,Home Appliances
+1432,550,27,2,33.26,Professional Shampoo,Beauty & Personal Care
+1433,550,41,3,572.96,Lightweight Tent,Sports & Outdoors
+1434,550,45,3,500.45,Electric Cookware Set,Kitchen
+1435,551,32,1,881.19,Ceramic Mixer,Kitchen
+1436,551,43,2,871.0,Electric Toaster,Kitchen
+1437,552,10,2,224.96,Portable TV,Electronics
+1438,553,1,3,657.49,Educational Doll,Toys & Games
+1439,553,29,2,869.43,Casual Shirt,Clothing
+1440,553,17,2,437.4,Executive Pen Set,Office Supplies
+1441,554,23,1,853.43,Compact Cabinet,Furniture
+1442,555,29,3,869.43,Casual Shirt,Clothing
+1443,555,44,3,36.41,Wooden Cabinet,Furniture
+1444,555,17,2,437.4,Executive Pen Set,Office Supplies
+1445,555,48,1,353.38,Portable Bicycle,Sports & Outdoors
+1446,555,47,1,275.32,Limited Edition Self-Help Book,Books
+1447,556,20,3,269.58,Interactive Building Blocks,Toys & Games
+1448,556,45,2,500.45,Electric Cookware Set,Kitchen
+1449,557,50,1,609.91,Wireless Smartwatch,Electronics
+1450,558,10,3,224.96,Portable TV,Electronics
+1451,559,33,3,872.23,Durable Backpack,Sports & Outdoors
+1452,560,1,2,657.49,Educational Doll,Toys & Games
+1453,560,19,3,470.88,Compact Vacuum,Home Appliances
+1454,560,50,3,609.91,Wireless Smartwatch,Electronics
+1455,561,22,2,315.8,Premium Organizer,Office Supplies
+1456,561,20,2,269.58,Interactive Building Blocks,Toys & Games
+1457,562,50,3,609.91,Wireless Smartwatch,Electronics
+1458,562,1,3,657.49,Educational Doll,Toys & Games
+1459,562,19,1,470.88,Compact Vacuum,Home Appliances
+1460,562,38,1,898.61,Organic Moisturizer,Beauty & Personal Care
+1461,562,22,1,315.8,Premium Organizer,Office Supplies
+1462,563,30,1,144.69,Illustrated Self-Help Book,Books
+1463,563,46,2,186.25,Natural Hair Dryer,Beauty & Personal Care
+1464,563,11,3,798.89,Electronic Puzzle,Toys & Games
+1465,564,15,1,670.76,Vintage Jacket,Clothing
+1466,564,27,1,33.26,Professional Shampoo,Beauty & Personal Care
+1467,564,7,2,669.73,Bestselling Biography,Books
+1468,564,14,3,945.75,Modern Sofa,Furniture
+1469,565,2,1,58.73,Ceramic Blender,Kitchen
+1470,565,32,1,881.19,Ceramic Mixer,Kitchen
+1471,565,43,1,871.0,Electric Toaster,Kitchen
+1472,565,10,3,224.96,Portable TV,Electronics
+1473,566,28,3,513.64,Recycled Pen Set,Office Supplies
+1474,566,9,1,907.16,Durable Stapler,Office Supplies
+1475,566,17,3,437.4,Executive Pen Set,Office Supplies
+1476,566,10,2,224.96,Portable TV,Electronics
+1477,566,18,1,218.27,Hardcover Biography,Books
+1478,567,46,2,186.25,Natural Hair Dryer,Beauty & Personal Care
+1479,567,38,2,898.61,Organic Moisturizer,Beauty & Personal Care
+1480,568,45,1,500.45,Electric Cookware Set,Kitchen
+1481,568,10,2,224.96,Portable TV,Electronics
+1482,568,21,2,330.45,Smart Heater,Home Appliances
+1483,569,19,2,470.88,Compact Vacuum,Home Appliances
+1484,569,1,1,657.49,Educational Doll,Toys & Games
+1485,569,50,3,609.91,Wireless Smartwatch,Electronics
+1486,570,19,2,470.88,Compact Vacuum,Home Appliances
+1487,570,50,1,609.91,Wireless Smartwatch,Electronics
+1488,570,1,2,657.49,Educational Doll,Toys & Games
+1489,571,19,3,470.88,Compact Vacuum,Home Appliances
+1490,571,37,1,575.69,Classic Board Game,Toys & Games
+1491,572,15,3,670.76,Vintage Jacket,Clothing
+1492,572,23,3,853.43,Compact Cabinet,Furniture
+1493,572,25,3,255.44,All-Weather Tent,Sports & Outdoors
+1494,572,10,2,224.96,Portable TV,Electronics
+1495,573,9,2,907.16,Durable Stapler,Office Supplies
+1496,573,28,2,513.64,Recycled Pen Set,Office Supplies
+1497,573,17,3,437.4,Executive Pen Set,Office Supplies
+1498,574,1,1,657.49,Educational Doll,Toys & Games
+1499,574,50,3,609.91,Wireless Smartwatch,Electronics
+1500,574,19,3,470.88,Compact Vacuum,Home Appliances
+1501,575,26,1,27.02,Portable Fitness Tracker,Sports & Outdoors
+1502,576,5,1,217.67,Classic Board Game,Toys & Games
+1503,576,10,3,224.96,Portable TV,Electronics
+1504,576,34,2,581.47,Natural Moisturizer,Beauty & Personal Care
+1505,576,48,1,353.38,Portable Bicycle,Sports & Outdoors
+1506,576,2,3,58.73,Ceramic Blender,Kitchen
+1507,577,17,3,437.4,Executive Pen Set,Office Supplies
+1508,578,19,1,470.88,Compact Vacuum,Home Appliances
+1509,578,1,1,657.49,Educational Doll,Toys & Games
+1510,578,50,2,609.91,Wireless Smartwatch,Electronics
+1511,579,2,3,58.73,Ceramic Blender,Kitchen
+1512,579,32,3,881.19,Ceramic Mixer,Kitchen
+1513,580,38,3,898.61,Organic Moisturizer,Beauty & Personal Care
+1514,580,14,2,945.75,Modern Sofa,Furniture
+1515,580,47,3,275.32,Limited Edition Self-Help Book,Books
+1516,580,18,3,218.27,Hardcover Biography,Books
+1517,580,8,1,620.77,Casual Jeans,Clothing
+1518,581,6,2,969.12,Professional Ball,Sports & Outdoors
+1519,582,32,2,881.19,Ceramic Mixer,Kitchen
+1520,582,43,1,871.0,Electric Toaster,Kitchen
+1521,582,2,2,58.73,Ceramic Blender,Kitchen
+1522,582,46,3,186.25,Natural Hair Dryer,Beauty & Personal Care
+1523,583,41,2,572.96,Lightweight Tent,Sports & Outdoors
+1524,584,43,3,871.0,Electric Toaster,Kitchen
+1525,585,17,2,437.4,Executive Pen Set,Office Supplies
+1526,585,9,2,907.16,Durable Stapler,Office Supplies
+1527,586,50,3,609.91,Wireless Smartwatch,Electronics
+1528,586,19,3,470.88,Compact Vacuum,Home Appliances
+1529,586,1,2,657.49,Educational Doll,Toys & Games
+1530,586,16,3,164.09,Classic Puzzle,Toys & Games
+1531,587,17,1,437.4,Executive Pen Set,Office Supplies
+1532,588,25,2,255.44,All-Weather Tent,Sports & Outdoors
+1533,588,12,2,853.97,Designer Shirt,Clothing
+1534,589,17,1,437.4,Executive Pen Set,Office Supplies
+1535,590,17,1,437.4,Executive Pen Set,Office Supplies
+1536,590,15,3,670.76,Vintage Jacket,Clothing
+1537,591,26,2,27.02,Portable Fitness Tracker,Sports & Outdoors
+1538,592,9,1,907.16,Durable Stapler,Office Supplies
+1539,592,28,1,513.64,Recycled Pen Set,Office Supplies
+1540,592,17,1,437.4,Executive Pen Set,Office Supplies
+1541,593,43,2,871.0,Electric Toaster,Kitchen
+1542,593,12,3,853.97,Designer Shirt,Clothing
+1543,594,32,2,881.19,Ceramic Mixer,Kitchen
+1544,594,43,2,871.0,Electric Toaster,Kitchen
+1545,595,28,1,513.64,Recycled Pen Set,Office Supplies
+1546,595,41,3,572.96,Lightweight Tent,Sports & Outdoors
+1547,595,18,1,218.27,Hardcover Biography,Books
+1548,596,50,2,609.91,Wireless Smartwatch,Electronics
+1549,596,1,3,657.49,Educational Doll,Toys & Games
+1550,596,19,2,470.88,Compact Vacuum,Home Appliances
+1551,596,15,1,670.76,Vintage Jacket,Clothing
+1552,597,19,1,470.88,Compact Vacuum,Home Appliances
+1553,597,50,2,609.91,Wireless Smartwatch,Electronics
+1554,597,1,2,657.49,Educational Doll,Toys & Games
+1555,597,45,2,500.45,Electric Cookware Set,Kitchen
+1556,598,42,3,874.95,Vintage Shirt,Clothing
+1557,598,27,2,33.26,Professional Shampoo,Beauty & Personal Care
+1558,599,9,2,907.16,Durable Stapler,Office Supplies
+1559,600,3,2,380.13,Luxury Moisturizer,Beauty & Personal Care
+1560,601,35,2,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+1561,601,26,1,27.02,Portable Fitness Tracker,Sports & Outdoors
+1562,601,7,2,669.73,Bestselling Biography,Books
+1563,602,34,3,581.47,Natural Moisturizer,Beauty & Personal Care
+1564,602,3,2,380.13,Luxury Moisturizer,Beauty & Personal Care
+1565,603,33,3,872.23,Durable Backpack,Sports & Outdoors
+1566,603,12,1,853.97,Designer Shirt,Clothing
+1567,603,34,2,581.47,Natural Moisturizer,Beauty & Personal Care
+1568,604,8,3,620.77,Casual Jeans,Clothing
+1569,604,32,2,881.19,Ceramic Mixer,Kitchen
+1570,604,42,2,874.95,Vintage Shirt,Clothing
+1571,604,11,1,798.89,Electronic Puzzle,Toys & Games
+1572,604,7,3,669.73,Bestselling Biography,Books
+1573,605,17,3,437.4,Executive Pen Set,Office Supplies
+1574,606,15,3,670.76,Vintage Jacket,Clothing
+1575,606,24,3,116.35,Wireless TV,Electronics
+1576,607,2,2,58.73,Ceramic Blender,Kitchen
+1577,607,32,2,881.19,Ceramic Mixer,Kitchen
+1578,607,43,2,871.0,Electric Toaster,Kitchen
+1579,608,8,2,620.77,Casual Jeans,Clothing
+1580,608,38,1,898.61,Organic Moisturizer,Beauty & Personal Care
+1581,608,11,3,798.89,Electronic Puzzle,Toys & Games
+1582,609,19,2,470.88,Compact Vacuum,Home Appliances
+1583,609,1,3,657.49,Educational Doll,Toys & Games
+1584,610,16,1,164.09,Classic Puzzle,Toys & Games
+1585,610,35,3,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+1586,610,11,1,798.89,Electronic Puzzle,Toys & Games
+1587,610,12,2,853.97,Designer Shirt,Clothing
+1588,611,28,3,513.64,Recycled Pen Set,Office Supplies
+1589,612,43,3,871.0,Electric Toaster,Kitchen
+1590,612,2,3,58.73,Ceramic Blender,Kitchen
+1591,612,32,2,881.19,Ceramic Mixer,Kitchen
+1592,612,36,3,432.44,Energy-efficient Fan,Home Appliances
+1593,612,8,1,620.77,Casual Jeans,Clothing
+1594,613,32,1,881.19,Ceramic Mixer,Kitchen
+1595,614,17,2,437.4,Executive Pen Set,Office Supplies
+1596,614,39,1,426.93,Ergonomic Cabinet,Furniture
+1597,614,1,3,657.49,Educational Doll,Toys & Games
+1598,615,1,1,657.49,Educational Doll,Toys & Games
+1599,615,19,1,470.88,Compact Vacuum,Home Appliances
+1600,615,50,2,609.91,Wireless Smartwatch,Electronics
+1601,616,50,1,609.91,Wireless Smartwatch,Electronics
+1602,616,19,2,470.88,Compact Vacuum,Home Appliances
+1603,617,50,3,609.91,Wireless Smartwatch,Electronics
+1604,617,1,2,657.49,Educational Doll,Toys & Games
+1605,617,19,1,470.88,Compact Vacuum,Home Appliances
+1606,617,8,1,620.77,Casual Jeans,Clothing
+1607,617,26,1,27.02,Portable Fitness Tracker,Sports & Outdoors
+1608,618,50,3,609.91,Wireless Smartwatch,Electronics
+1609,619,33,1,872.23,Durable Backpack,Sports & Outdoors
+1610,619,3,3,380.13,Luxury Moisturizer,Beauty & Personal Care
+1611,619,12,3,853.97,Designer Shirt,Clothing
+1612,620,13,2,936.93,All-Weather Ball,Sports & Outdoors
+1613,621,43,1,871.0,Electric Toaster,Kitchen
+1614,622,32,1,881.19,Ceramic Mixer,Kitchen
+1615,623,9,3,907.16,Durable Stapler,Office Supplies
+1616,623,17,2,437.4,Executive Pen Set,Office Supplies
+1617,624,32,2,881.19,Ceramic Mixer,Kitchen
+1618,624,43,1,871.0,Electric Toaster,Kitchen
+1619,625,31,1,11.91,Formal Jeans,Clothing
+1620,625,21,3,330.45,Smart Heater,Home Appliances
+1621,625,12,2,853.97,Designer Shirt,Clothing
+1622,625,9,3,907.16,Durable Stapler,Office Supplies
+1623,626,28,3,513.64,Recycled Pen Set,Office Supplies
+1624,626,45,1,500.45,Electric Cookware Set,Kitchen
+1625,627,19,2,470.88,Compact Vacuum,Home Appliances
+1626,627,11,1,798.89,Electronic Puzzle,Toys & Games
+1627,628,32,1,881.19,Ceramic Mixer,Kitchen
+1628,629,9,1,907.16,Durable Stapler,Office Supplies
+1629,629,28,3,513.64,Recycled Pen Set,Office Supplies
+1630,630,40,2,185.38,Ergonomic Cabinet,Furniture
+1631,630,44,2,36.41,Wooden Cabinet,Furniture
+1632,630,45,2,500.45,Electric Cookware Set,Kitchen
+1633,630,7,3,669.73,Bestselling Biography,Books
+1634,631,34,3,581.47,Natural Moisturizer,Beauty & Personal Care
+1635,632,32,1,881.19,Ceramic Mixer,Kitchen
+1636,632,43,1,871.0,Electric Toaster,Kitchen
+1637,632,2,1,58.73,Ceramic Blender,Kitchen
+1638,633,28,2,513.64,Recycled Pen Set,Office Supplies
+1639,634,16,3,164.09,Classic Puzzle,Toys & Games
+1640,634,11,2,798.89,Electronic Puzzle,Toys & Games
+1641,634,23,1,853.43,Compact Cabinet,Furniture
+1642,635,19,3,470.88,Compact Vacuum,Home Appliances
+1643,635,50,2,609.91,Wireless Smartwatch,Electronics
+1644,635,1,1,657.49,Educational Doll,Toys & Games
+1645,635,34,1,581.47,Natural Moisturizer,Beauty & Personal Care
+1646,636,19,1,470.88,Compact Vacuum,Home Appliances
+1647,636,1,2,657.49,Educational Doll,Toys & Games
+1648,637,32,3,881.19,Ceramic Mixer,Kitchen
+1649,638,8,1,620.77,Casual Jeans,Clothing
+1650,638,26,1,27.02,Portable Fitness Tracker,Sports & Outdoors
+1651,638,39,1,426.93,Ergonomic Cabinet,Furniture
+1652,639,43,2,871.0,Electric Toaster,Kitchen
+1653,640,39,3,426.93,Ergonomic Cabinet,Furniture
+1654,640,1,3,657.49,Educational Doll,Toys & Games
+1655,640,13,1,936.93,All-Weather Ball,Sports & Outdoors
+1656,640,45,1,500.45,Electric Cookware Set,Kitchen
+1657,641,21,3,330.45,Smart Heater,Home Appliances
+1658,641,13,1,936.93,All-Weather Ball,Sports & Outdoors
+1659,641,17,1,437.4,Executive Pen Set,Office Supplies
+1660,642,32,3,881.19,Ceramic Mixer,Kitchen
+1661,642,43,2,871.0,Electric Toaster,Kitchen
+1662,643,16,3,164.09,Classic Puzzle,Toys & Games
+1663,644,24,3,116.35,Wireless TV,Electronics
+1664,644,27,3,33.26,Professional Shampoo,Beauty & Personal Care
+1665,644,2,2,58.73,Ceramic Blender,Kitchen
+1666,644,1,1,657.49,Educational Doll,Toys & Games
+1667,644,14,2,945.75,Modern Sofa,Furniture
+1668,645,20,1,269.58,Interactive Building Blocks,Toys & Games
+1669,645,39,3,426.93,Ergonomic Cabinet,Furniture
+1670,645,6,2,969.12,Professional Ball,Sports & Outdoors
+1671,645,37,2,575.69,Classic Board Game,Toys & Games
+1672,645,12,1,853.97,Designer Shirt,Clothing
+1673,646,28,3,513.64,Recycled Pen Set,Office Supplies
+1674,646,9,3,907.16,Durable Stapler,Office Supplies
+1675,647,40,2,185.38,Ergonomic Cabinet,Furniture
+1676,648,14,3,945.75,Modern Sofa,Furniture
+1677,648,9,1,907.16,Durable Stapler,Office Supplies
+1678,649,50,1,609.91,Wireless Smartwatch,Electronics
+1679,649,19,1,470.88,Compact Vacuum,Home Appliances
+1680,649,1,3,657.49,Educational Doll,Toys & Games
+1681,649,47,1,275.32,Limited Edition Self-Help Book,Books
+1682,650,29,2,869.43,Casual Shirt,Clothing
+1683,650,20,1,269.58,Interactive Building Blocks,Toys & Games
+1684,650,11,2,798.89,Electronic Puzzle,Toys & Games
+1685,651,37,2,575.69,Classic Board Game,Toys & Games
+1686,651,28,1,513.64,Recycled Pen Set,Office Supplies
+1687,652,2,3,58.73,Ceramic Blender,Kitchen
+1688,652,32,2,881.19,Ceramic Mixer,Kitchen
+1689,652,43,2,871.0,Electric Toaster,Kitchen
+1690,653,49,2,971.24,Creative Board Game,Toys & Games
+1691,653,23,3,853.43,Compact Cabinet,Furniture
+1692,654,5,1,217.67,Classic Board Game,Toys & Games
+1693,654,37,2,575.69,Classic Board Game,Toys & Games
+1694,655,5,3,217.67,Classic Board Game,Toys & Games
+1695,656,8,2,620.77,Casual Jeans,Clothing
+1696,656,46,3,186.25,Natural Hair Dryer,Beauty & Personal Care
+1697,656,15,2,670.76,Vintage Jacket,Clothing
+1698,656,36,3,432.44,Energy-efficient Fan,Home Appliances
+1699,656,20,2,269.58,Interactive Building Blocks,Toys & Games
+1700,657,40,3,185.38,Ergonomic Cabinet,Furniture
+1701,657,3,3,380.13,Luxury Moisturizer,Beauty & Personal Care
+1702,657,1,2,657.49,Educational Doll,Toys & Games
+1703,657,6,3,969.12,Professional Ball,Sports & Outdoors
+1704,657,17,1,437.4,Executive Pen Set,Office Supplies
+1705,658,28,1,513.64,Recycled Pen Set,Office Supplies
+1706,658,17,3,437.4,Executive Pen Set,Office Supplies
+1707,658,9,2,907.16,Durable Stapler,Office Supplies
+1708,659,9,3,907.16,Durable Stapler,Office Supplies
+1709,659,28,2,513.64,Recycled Pen Set,Office Supplies
+1710,659,17,1,437.4,Executive Pen Set,Office Supplies
+1711,659,1,3,657.49,Educational Doll,Toys & Games
+1712,659,32,2,881.19,Ceramic Mixer,Kitchen
+1713,660,17,1,437.4,Executive Pen Set,Office Supplies
+1714,660,9,2,907.16,Durable Stapler,Office Supplies
+1715,661,5,3,217.67,Classic Board Game,Toys & Games
+1716,661,47,1,275.32,Limited Edition Self-Help Book,Books
+1717,661,8,1,620.77,Casual Jeans,Clothing
+1718,662,41,3,572.96,Lightweight Tent,Sports & Outdoors
+1719,662,14,2,945.75,Modern Sofa,Furniture
+1720,662,31,2,11.91,Formal Jeans,Clothing
+1721,662,1,3,657.49,Educational Doll,Toys & Games
+1722,662,29,1,869.43,Casual Shirt,Clothing
+1723,663,28,3,513.64,Recycled Pen Set,Office Supplies
+1724,663,17,1,437.4,Executive Pen Set,Office Supplies
+1725,664,43,3,871.0,Electric Toaster,Kitchen
+1726,664,42,1,874.95,Vintage Shirt,Clothing
+1727,664,25,1,255.44,All-Weather Tent,Sports & Outdoors
+1728,665,36,2,432.44,Energy-efficient Fan,Home Appliances
+1729,665,45,2,500.45,Electric Cookware Set,Kitchen
+1730,665,38,2,898.61,Organic Moisturizer,Beauty & Personal Care
+1731,665,32,2,881.19,Ceramic Mixer,Kitchen
+1732,666,15,1,670.76,Vintage Jacket,Clothing
+1733,666,47,3,275.32,Limited Edition Self-Help Book,Books
+1734,667,40,2,185.38,Ergonomic Cabinet,Furniture
+1735,667,1,1,657.49,Educational Doll,Toys & Games
+1736,667,18,3,218.27,Hardcover Biography,Books
+1737,668,43,1,871.0,Electric Toaster,Kitchen
+1738,668,2,3,58.73,Ceramic Blender,Kitchen
+1739,669,28,2,513.64,Recycled Pen Set,Office Supplies
+1740,669,9,1,907.16,Durable Stapler,Office Supplies
+1741,670,19,1,470.88,Compact Vacuum,Home Appliances
+1742,670,12,2,853.97,Designer Shirt,Clothing
+1743,670,17,1,437.4,Executive Pen Set,Office Supplies
+1744,670,24,1,116.35,Wireless TV,Electronics
+1745,671,50,1,609.91,Wireless Smartwatch,Electronics
+1746,671,19,1,470.88,Compact Vacuum,Home Appliances
+1747,671,1,1,657.49,Educational Doll,Toys & Games
+1748,672,21,1,330.45,Smart Heater,Home Appliances
+1749,672,45,2,500.45,Electric Cookware Set,Kitchen
+1750,673,12,2,853.97,Designer Shirt,Clothing
+1751,673,2,2,58.73,Ceramic Blender,Kitchen
+1752,674,32,2,881.19,Ceramic Mixer,Kitchen
+1753,674,43,1,871.0,Electric Toaster,Kitchen
+1754,674,2,3,58.73,Ceramic Blender,Kitchen
+1755,674,26,1,27.02,Portable Fitness Tracker,Sports & Outdoors
+1756,675,41,3,572.96,Lightweight Tent,Sports & Outdoors
+1757,675,6,3,969.12,Professional Ball,Sports & Outdoors
+1758,676,43,3,871.0,Electric Toaster,Kitchen
+1759,676,41,2,572.96,Lightweight Tent,Sports & Outdoors
+1760,677,9,3,907.16,Durable Stapler,Office Supplies
+1761,678,27,3,33.26,Professional Shampoo,Beauty & Personal Care
+1762,678,44,3,36.41,Wooden Cabinet,Furniture
+1763,679,29,2,869.43,Casual Shirt,Clothing
+1764,680,45,3,500.45,Electric Cookware Set,Kitchen
+1765,680,4,3,692.96,Vintage T-shirt,Clothing
+1766,680,37,1,575.69,Classic Board Game,Toys & Games
+1767,681,19,2,470.88,Compact Vacuum,Home Appliances
+1768,681,50,3,609.91,Wireless Smartwatch,Electronics
+1769,681,1,1,657.49,Educational Doll,Toys & Games
+1770,681,24,3,116.35,Wireless TV,Electronics
+1771,682,19,3,470.88,Compact Vacuum,Home Appliances
+1772,682,35,1,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+1773,683,46,1,186.25,Natural Hair Dryer,Beauty & Personal Care
+1774,683,21,1,330.45,Smart Heater,Home Appliances
+1775,683,36,3,432.44,Energy-efficient Fan,Home Appliances
+1776,684,11,3,798.89,Electronic Puzzle,Toys & Games
+1777,684,32,3,881.19,Ceramic Mixer,Kitchen
+1778,685,28,2,513.64,Recycled Pen Set,Office Supplies
+1779,685,49,2,971.24,Creative Board Game,Toys & Games
+1780,685,19,1,470.88,Compact Vacuum,Home Appliances
+1781,686,9,1,907.16,Durable Stapler,Office Supplies
+1782,686,28,2,513.64,Recycled Pen Set,Office Supplies
+1783,686,17,1,437.4,Executive Pen Set,Office Supplies
+1784,687,4,1,692.96,Vintage T-shirt,Clothing
+1785,687,2,1,58.73,Ceramic Blender,Kitchen
+1786,688,32,2,881.19,Ceramic Mixer,Kitchen
+1787,688,43,1,871.0,Electric Toaster,Kitchen
+1788,689,25,3,255.44,All-Weather Tent,Sports & Outdoors
+1789,689,17,1,437.4,Executive Pen Set,Office Supplies
+1790,689,45,1,500.45,Electric Cookware Set,Kitchen
+1791,689,7,1,669.73,Bestselling Biography,Books
+1792,690,50,1,609.91,Wireless Smartwatch,Electronics
+1793,691,28,1,513.64,Recycled Pen Set,Office Supplies
+1794,691,9,3,907.16,Durable Stapler,Office Supplies
+1795,692,1,2,657.49,Educational Doll,Toys & Games
+1796,692,50,2,609.91,Wireless Smartwatch,Electronics
+1797,692,19,1,470.88,Compact Vacuum,Home Appliances
+1798,692,24,3,116.35,Wireless TV,Electronics
+1799,693,4,2,692.96,Vintage T-shirt,Clothing
+1800,693,27,3,33.26,Professional Shampoo,Beauty & Personal Care
+1801,693,50,3,609.91,Wireless Smartwatch,Electronics
+1802,694,9,3,907.16,Durable Stapler,Office Supplies
+1803,694,28,1,513.64,Recycled Pen Set,Office Supplies
+1804,695,39,3,426.93,Ergonomic Cabinet,Furniture
+1805,695,20,2,269.58,Interactive Building Blocks,Toys & Games
+1806,695,30,1,144.69,Illustrated Self-Help Book,Books
+1807,696,32,1,881.19,Ceramic Mixer,Kitchen
+1808,696,49,3,971.24,Creative Board Game,Toys & Games
+1809,696,17,1,437.4,Executive Pen Set,Office Supplies
+1810,696,10,1,224.96,Portable TV,Electronics
+1811,697,2,3,58.73,Ceramic Blender,Kitchen
+1812,697,32,2,881.19,Ceramic Mixer,Kitchen
+1813,698,32,1,881.19,Ceramic Mixer,Kitchen
+1814,698,24,2,116.35,Wireless TV,Electronics
+1815,698,33,2,872.23,Durable Backpack,Sports & Outdoors
+1816,699,50,2,609.91,Wireless Smartwatch,Electronics
+1817,699,1,3,657.49,Educational Doll,Toys & Games
+1818,700,14,3,945.75,Modern Sofa,Furniture
+1819,700,28,3,513.64,Recycled Pen Set,Office Supplies
+1820,701,35,3,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+1821,702,9,3,907.16,Durable Stapler,Office Supplies
+1822,702,28,3,513.64,Recycled Pen Set,Office Supplies
+1823,702,17,3,437.4,Executive Pen Set,Office Supplies
+1824,702,43,2,871.0,Electric Toaster,Kitchen
+1825,702,40,2,185.38,Ergonomic Cabinet,Furniture
+1826,703,14,3,945.75,Modern Sofa,Furniture
+1827,704,19,3,470.88,Compact Vacuum,Home Appliances
+1828,704,50,1,609.91,Wireless Smartwatch,Electronics
+1829,705,32,3,881.19,Ceramic Mixer,Kitchen
+1830,705,43,2,871.0,Electric Toaster,Kitchen
+1831,706,19,3,470.88,Compact Vacuum,Home Appliances
+1832,706,1,1,657.49,Educational Doll,Toys & Games
+1833,706,50,2,609.91,Wireless Smartwatch,Electronics
+1834,706,29,2,869.43,Casual Shirt,Clothing
+1835,707,39,2,426.93,Ergonomic Cabinet,Furniture
+1836,707,15,3,670.76,Vintage Jacket,Clothing
+1837,708,8,2,620.77,Casual Jeans,Clothing
+1838,708,41,2,572.96,Lightweight Tent,Sports & Outdoors
+1839,709,2,2,58.73,Ceramic Blender,Kitchen
+1840,709,43,3,871.0,Electric Toaster,Kitchen
+1841,709,32,2,881.19,Ceramic Mixer,Kitchen
+1842,709,18,3,218.27,Hardcover Biography,Books
+1843,710,50,2,609.91,Wireless Smartwatch,Electronics
+1844,710,19,2,470.88,Compact Vacuum,Home Appliances
+1845,710,1,3,657.49,Educational Doll,Toys & Games
+1846,711,6,1,969.12,Professional Ball,Sports & Outdoors
+1847,711,10,2,224.96,Portable TV,Electronics
+1848,711,18,2,218.27,Hardcover Biography,Books
+1849,712,3,3,380.13,Luxury Moisturizer,Beauty & Personal Care
+1850,713,44,1,36.41,Wooden Cabinet,Furniture
+1851,713,23,1,853.43,Compact Cabinet,Furniture
+1852,713,45,1,500.45,Electric Cookware Set,Kitchen
+1853,713,3,2,380.13,Luxury Moisturizer,Beauty & Personal Care
+1854,714,26,1,27.02,Portable Fitness Tracker,Sports & Outdoors
+1855,714,1,3,657.49,Educational Doll,Toys & Games
+1856,714,5,3,217.67,Classic Board Game,Toys & Games
+1857,714,24,1,116.35,Wireless TV,Electronics
+1858,714,47,2,275.32,Limited Edition Self-Help Book,Books
+1859,715,20,3,269.58,Interactive Building Blocks,Toys & Games
+1860,716,6,1,969.12,Professional Ball,Sports & Outdoors
+1861,716,20,1,269.58,Interactive Building Blocks,Toys & Games
+1862,716,9,3,907.16,Durable Stapler,Office Supplies
+1863,716,21,1,330.45,Smart Heater,Home Appliances
+1864,716,27,1,33.26,Professional Shampoo,Beauty & Personal Care
+1865,717,26,1,27.02,Portable Fitness Tracker,Sports & Outdoors
+1866,717,8,1,620.77,Casual Jeans,Clothing
+1867,717,47,3,275.32,Limited Edition Self-Help Book,Books
+1868,718,27,3,33.26,Professional Shampoo,Beauty & Personal Care
+1869,718,22,2,315.8,Premium Organizer,Office Supplies
+1870,718,44,1,36.41,Wooden Cabinet,Furniture
+1871,718,2,3,58.73,Ceramic Blender,Kitchen
+1872,719,15,1,670.76,Vintage Jacket,Clothing
+1873,719,17,2,437.4,Executive Pen Set,Office Supplies
+1874,719,6,1,969.12,Professional Ball,Sports & Outdoors
+1875,719,45,2,500.45,Electric Cookware Set,Kitchen
+1876,720,12,2,853.97,Designer Shirt,Clothing
+1877,720,42,1,874.95,Vintage Shirt,Clothing
+1878,721,9,2,907.16,Durable Stapler,Office Supplies
+1879,721,17,3,437.4,Executive Pen Set,Office Supplies
+1880,722,49,2,971.24,Creative Board Game,Toys & Games
+1881,722,33,1,872.23,Durable Backpack,Sports & Outdoors
+1882,723,50,2,609.91,Wireless Smartwatch,Electronics
+1883,723,19,1,470.88,Compact Vacuum,Home Appliances
+1884,723,1,1,657.49,Educational Doll,Toys & Games
+1885,723,35,2,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+1886,724,49,3,971.24,Creative Board Game,Toys & Games
+1887,724,46,2,186.25,Natural Hair Dryer,Beauty & Personal Care
+1888,724,36,1,432.44,Energy-efficient Fan,Home Appliances
+1889,724,6,3,969.12,Professional Ball,Sports & Outdoors
+1890,724,33,2,872.23,Durable Backpack,Sports & Outdoors
+1891,725,7,1,669.73,Bestselling Biography,Books
+1892,726,43,2,871.0,Electric Toaster,Kitchen
+1893,726,32,1,881.19,Ceramic Mixer,Kitchen
+1894,726,2,3,58.73,Ceramic Blender,Kitchen
+1895,727,2,3,58.73,Ceramic Blender,Kitchen
+1896,727,43,2,871.0,Electric Toaster,Kitchen
+1897,728,2,1,58.73,Ceramic Blender,Kitchen
+1898,728,47,3,275.32,Limited Edition Self-Help Book,Books
+1899,728,12,1,853.97,Designer Shirt,Clothing
+1900,728,26,3,27.02,Portable Fitness Tracker,Sports & Outdoors
+1901,728,16,2,164.09,Classic Puzzle,Toys & Games
+1902,729,50,2,609.91,Wireless Smartwatch,Electronics
+1903,729,19,3,470.88,Compact Vacuum,Home Appliances
+1904,729,1,3,657.49,Educational Doll,Toys & Games
+1905,729,24,3,116.35,Wireless TV,Electronics
+1906,729,17,2,437.4,Executive Pen Set,Office Supplies
+1907,730,21,3,330.45,Smart Heater,Home Appliances
+1908,730,27,3,33.26,Professional Shampoo,Beauty & Personal Care
+1909,730,28,1,513.64,Recycled Pen Set,Office Supplies
+1910,730,16,1,164.09,Classic Puzzle,Toys & Games
+1911,730,47,2,275.32,Limited Edition Self-Help Book,Books
+1912,731,18,3,218.27,Hardcover Biography,Books
+1913,731,40,1,185.38,Ergonomic Cabinet,Furniture
+1914,731,15,2,670.76,Vintage Jacket,Clothing
+1915,732,24,2,116.35,Wireless TV,Electronics
+1916,733,1,3,657.49,Educational Doll,Toys & Games
+1917,733,50,3,609.91,Wireless Smartwatch,Electronics
+1918,734,50,3,609.91,Wireless Smartwatch,Electronics
+1919,734,19,3,470.88,Compact Vacuum,Home Appliances
+1920,735,2,1,58.73,Ceramic Blender,Kitchen
+1921,735,43,3,871.0,Electric Toaster,Kitchen
+1922,735,32,3,881.19,Ceramic Mixer,Kitchen
+1923,736,32,2,881.19,Ceramic Mixer,Kitchen
+1924,737,12,3,853.97,Designer Shirt,Clothing
+1925,737,46,2,186.25,Natural Hair Dryer,Beauty & Personal Care
+1926,737,25,3,255.44,All-Weather Tent,Sports & Outdoors
+1927,738,50,1,609.91,Wireless Smartwatch,Electronics
+1928,738,1,2,657.49,Educational Doll,Toys & Games
+1929,739,2,3,58.73,Ceramic Blender,Kitchen
+1930,739,32,3,881.19,Ceramic Mixer,Kitchen
+1931,740,8,1,620.77,Casual Jeans,Clothing
+1932,740,31,1,11.91,Formal Jeans,Clothing
+1933,740,28,1,513.64,Recycled Pen Set,Office Supplies
+1934,740,50,3,609.91,Wireless Smartwatch,Electronics
+1935,740,29,3,869.43,Casual Shirt,Clothing
+1936,741,21,3,330.45,Smart Heater,Home Appliances
+1937,741,39,1,426.93,Ergonomic Cabinet,Furniture
+1938,741,8,2,620.77,Casual Jeans,Clothing
+1939,742,32,1,881.19,Ceramic Mixer,Kitchen
+1940,742,43,1,871.0,Electric Toaster,Kitchen
+1941,742,2,1,58.73,Ceramic Blender,Kitchen
+1942,742,9,2,907.16,Durable Stapler,Office Supplies
+1943,743,11,3,798.89,Electronic Puzzle,Toys & Games
+1944,743,40,1,185.38,Ergonomic Cabinet,Furniture
+1945,743,23,1,853.43,Compact Cabinet,Furniture
+1946,743,20,3,269.58,Interactive Building Blocks,Toys & Games
+1947,744,36,2,432.44,Energy-efficient Fan,Home Appliances
+1948,744,14,3,945.75,Modern Sofa,Furniture
+1949,745,34,3,581.47,Natural Moisturizer,Beauty & Personal Care
+1950,745,37,1,575.69,Classic Board Game,Toys & Games
+1951,745,17,2,437.4,Executive Pen Set,Office Supplies
+1952,746,19,1,470.88,Compact Vacuum,Home Appliances
+1953,746,50,1,609.91,Wireless Smartwatch,Electronics
+1954,746,1,1,657.49,Educational Doll,Toys & Games
+1955,746,29,2,869.43,Casual Shirt,Clothing
+1956,746,38,1,898.61,Organic Moisturizer,Beauty & Personal Care
+1957,747,36,2,432.44,Energy-efficient Fan,Home Appliances
+1958,747,45,1,500.45,Electric Cookware Set,Kitchen
+1959,747,42,3,874.95,Vintage Shirt,Clothing
+1960,748,28,3,513.64,Recycled Pen Set,Office Supplies
+1961,748,17,1,437.4,Executive Pen Set,Office Supplies
+1962,749,40,1,185.38,Ergonomic Cabinet,Furniture
+1963,749,23,1,853.43,Compact Cabinet,Furniture
+1964,750,28,3,513.64,Recycled Pen Set,Office Supplies
+1965,750,9,2,907.16,Durable Stapler,Office Supplies
+1966,751,50,1,609.91,Wireless Smartwatch,Electronics
+1967,751,19,1,470.88,Compact Vacuum,Home Appliances
+1968,751,1,1,657.49,Educational Doll,Toys & Games
+1969,751,10,3,224.96,Portable TV,Electronics
+1970,752,35,2,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+1971,752,15,2,670.76,Vintage Jacket,Clothing
+1972,752,27,1,33.26,Professional Shampoo,Beauty & Personal Care
+1973,752,31,2,11.91,Formal Jeans,Clothing
+1974,753,30,1,144.69,Illustrated Self-Help Book,Books
+1975,753,29,3,869.43,Casual Shirt,Clothing
+1976,754,1,3,657.49,Educational Doll,Toys & Games
+1977,755,10,3,224.96,Portable TV,Electronics
+1978,755,39,2,426.93,Ergonomic Cabinet,Furniture
+1979,755,19,3,470.88,Compact Vacuum,Home Appliances
+1980,756,23,3,853.43,Compact Cabinet,Furniture
+1981,756,10,1,224.96,Portable TV,Electronics
+1982,756,47,1,275.32,Limited Edition Self-Help Book,Books
+1983,757,9,1,907.16,Durable Stapler,Office Supplies
+1984,757,28,3,513.64,Recycled Pen Set,Office Supplies
+1985,757,17,3,437.4,Executive Pen Set,Office Supplies
+1986,757,10,1,224.96,Portable TV,Electronics
+1987,757,8,1,620.77,Casual Jeans,Clothing
+1988,758,36,1,432.44,Energy-efficient Fan,Home Appliances
+1989,758,15,1,670.76,Vintage Jacket,Clothing
+1990,758,9,3,907.16,Durable Stapler,Office Supplies
+1991,758,12,1,853.97,Designer Shirt,Clothing
+1992,759,17,3,437.4,Executive Pen Set,Office Supplies
+1993,759,28,3,513.64,Recycled Pen Set,Office Supplies
+1994,760,43,3,871.0,Electric Toaster,Kitchen
+1995,760,32,2,881.19,Ceramic Mixer,Kitchen
+1996,761,32,3,881.19,Ceramic Mixer,Kitchen
+1997,761,12,1,853.97,Designer Shirt,Clothing
+1998,761,5,3,217.67,Classic Board Game,Toys & Games
+1999,762,32,3,881.19,Ceramic Mixer,Kitchen
+2000,762,43,2,871.0,Electric Toaster,Kitchen
+2001,763,19,3,470.88,Compact Vacuum,Home Appliances
+2002,763,50,3,609.91,Wireless Smartwatch,Electronics
+2003,763,1,3,657.49,Educational Doll,Toys & Games
+2004,763,40,1,185.38,Ergonomic Cabinet,Furniture
+2005,764,7,3,669.73,Bestselling Biography,Books
+2006,765,1,1,657.49,Educational Doll,Toys & Games
+2007,765,19,1,470.88,Compact Vacuum,Home Appliances
+2008,765,50,1,609.91,Wireless Smartwatch,Electronics
+2009,766,26,3,27.02,Portable Fitness Tracker,Sports & Outdoors
+2010,766,36,3,432.44,Energy-efficient Fan,Home Appliances
+2011,767,37,1,575.69,Classic Board Game,Toys & Games
+2012,767,6,2,969.12,Professional Ball,Sports & Outdoors
+2013,768,3,3,380.13,Luxury Moisturizer,Beauty & Personal Care
+2014,768,9,2,907.16,Durable Stapler,Office Supplies
+2015,769,50,2,609.91,Wireless Smartwatch,Electronics
+2016,769,1,3,657.49,Educational Doll,Toys & Games
+2017,769,3,2,380.13,Luxury Moisturizer,Beauty & Personal Care
+2018,769,30,2,144.69,Illustrated Self-Help Book,Books
+2019,770,11,3,798.89,Electronic Puzzle,Toys & Games
+2020,770,17,2,437.4,Executive Pen Set,Office Supplies
+2021,770,9,2,907.16,Durable Stapler,Office Supplies
+2022,770,46,3,186.25,Natural Hair Dryer,Beauty & Personal Care
+2023,770,32,1,881.19,Ceramic Mixer,Kitchen
+2024,771,18,3,218.27,Hardcover Biography,Books
+2025,772,28,2,513.64,Recycled Pen Set,Office Supplies
+2026,772,17,1,437.4,Executive Pen Set,Office Supplies
+2027,772,9,2,907.16,Durable Stapler,Office Supplies
+2028,772,1,2,657.49,Educational Doll,Toys & Games
+2029,773,20,2,269.58,Interactive Building Blocks,Toys & Games
+2030,773,24,1,116.35,Wireless TV,Electronics
+2031,773,12,1,853.97,Designer Shirt,Clothing
+2032,774,9,1,907.16,Durable Stapler,Office Supplies
+2033,774,43,2,871.0,Electric Toaster,Kitchen
+2034,774,21,2,330.45,Smart Heater,Home Appliances
+2035,774,47,3,275.32,Limited Edition Self-Help Book,Books
+2036,774,1,2,657.49,Educational Doll,Toys & Games
+2037,775,9,2,907.16,Durable Stapler,Office Supplies
+2038,775,28,1,513.64,Recycled Pen Set,Office Supplies
+2039,775,17,1,437.4,Executive Pen Set,Office Supplies
+2040,775,11,1,798.89,Electronic Puzzle,Toys & Games
+2041,775,40,1,185.38,Ergonomic Cabinet,Furniture
+2042,776,4,2,692.96,Vintage T-shirt,Clothing
+2043,776,43,2,871.0,Electric Toaster,Kitchen
+2044,776,19,3,470.88,Compact Vacuum,Home Appliances
+2045,777,9,3,907.16,Durable Stapler,Office Supplies
+2046,777,17,2,437.4,Executive Pen Set,Office Supplies
+2047,777,28,2,513.64,Recycled Pen Set,Office Supplies
+2048,777,6,2,969.12,Professional Ball,Sports & Outdoors
+2049,778,1,2,657.49,Educational Doll,Toys & Games
+2050,778,50,3,609.91,Wireless Smartwatch,Electronics
+2051,778,19,1,470.88,Compact Vacuum,Home Appliances
+2052,778,35,2,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+2053,778,17,3,437.4,Executive Pen Set,Office Supplies
+2054,779,32,3,881.19,Ceramic Mixer,Kitchen
+2055,779,43,1,871.0,Electric Toaster,Kitchen
+2056,779,2,1,58.73,Ceramic Blender,Kitchen
+2057,780,44,2,36.41,Wooden Cabinet,Furniture
+2058,781,22,1,315.8,Premium Organizer,Office Supplies
+2059,781,6,1,969.12,Professional Ball,Sports & Outdoors
+2060,781,5,3,217.67,Classic Board Game,Toys & Games
+2061,781,47,1,275.32,Limited Edition Self-Help Book,Books
+2062,781,15,3,670.76,Vintage Jacket,Clothing
+2063,782,30,2,144.69,Illustrated Self-Help Book,Books
+2064,782,1,2,657.49,Educational Doll,Toys & Games
+2065,782,47,3,275.32,Limited Edition Self-Help Book,Books
+2066,782,3,1,380.13,Luxury Moisturizer,Beauty & Personal Care
+2067,783,2,2,58.73,Ceramic Blender,Kitchen
+2068,783,32,2,881.19,Ceramic Mixer,Kitchen
+2069,784,25,3,255.44,All-Weather Tent,Sports & Outdoors
+2070,784,3,1,380.13,Luxury Moisturizer,Beauty & Personal Care
+2071,784,11,3,798.89,Electronic Puzzle,Toys & Games
+2072,785,13,1,936.93,All-Weather Ball,Sports & Outdoors
+2073,786,9,3,907.16,Durable Stapler,Office Supplies
+2074,786,28,1,513.64,Recycled Pen Set,Office Supplies
+2075,786,17,3,437.4,Executive Pen Set,Office Supplies
+2076,787,4,3,692.96,Vintage T-shirt,Clothing
+2077,787,42,3,874.95,Vintage Shirt,Clothing
+2078,788,50,1,609.91,Wireless Smartwatch,Electronics
+2079,788,12,3,853.97,Designer Shirt,Clothing
+2080,788,44,3,36.41,Wooden Cabinet,Furniture
+2081,788,17,3,437.4,Executive Pen Set,Office Supplies
+2082,789,33,2,872.23,Durable Backpack,Sports & Outdoors
+2083,789,32,1,881.19,Ceramic Mixer,Kitchen
+2084,789,35,3,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+2085,789,28,2,513.64,Recycled Pen Set,Office Supplies
+2086,790,26,1,27.02,Portable Fitness Tracker,Sports & Outdoors
+2087,791,32,3,881.19,Ceramic Mixer,Kitchen
+2088,791,43,2,871.0,Electric Toaster,Kitchen
+2089,791,2,1,58.73,Ceramic Blender,Kitchen
+2090,792,7,1,669.73,Bestselling Biography,Books
+2091,792,17,1,437.4,Executive Pen Set,Office Supplies
+2092,792,20,2,269.58,Interactive Building Blocks,Toys & Games
+2093,793,1,3,657.49,Educational Doll,Toys & Games
+2094,793,50,3,609.91,Wireless Smartwatch,Electronics
+2095,794,41,3,572.96,Lightweight Tent,Sports & Outdoors
+2096,794,19,3,470.88,Compact Vacuum,Home Appliances
+2097,795,17,3,437.4,Executive Pen Set,Office Supplies
+2098,795,28,1,513.64,Recycled Pen Set,Office Supplies
+2099,796,39,2,426.93,Ergonomic Cabinet,Furniture
+2100,796,24,2,116.35,Wireless TV,Electronics
+2101,796,38,1,898.61,Organic Moisturizer,Beauty & Personal Care
+2102,797,19,3,470.88,Compact Vacuum,Home Appliances
+2103,797,1,2,657.49,Educational Doll,Toys & Games
+2104,797,50,1,609.91,Wireless Smartwatch,Electronics
+2105,798,19,1,470.88,Compact Vacuum,Home Appliances
+2106,798,1,1,657.49,Educational Doll,Toys & Games
+2107,799,32,3,881.19,Ceramic Mixer,Kitchen
+2108,799,2,3,58.73,Ceramic Blender,Kitchen
+2109,800,4,1,692.96,Vintage T-shirt,Clothing
+2110,801,28,2,513.64,Recycled Pen Set,Office Supplies
+2111,801,9,2,907.16,Durable Stapler,Office Supplies
+2112,801,49,3,971.24,Creative Board Game,Toys & Games
+2113,801,48,2,353.38,Portable Bicycle,Sports & Outdoors
+2114,801,15,1,670.76,Vintage Jacket,Clothing
+2115,802,27,3,33.26,Professional Shampoo,Beauty & Personal Care
+2116,802,33,1,872.23,Durable Backpack,Sports & Outdoors
+2117,802,11,2,798.89,Electronic Puzzle,Toys & Games
+2118,803,28,1,513.64,Recycled Pen Set,Office Supplies
+2119,803,9,2,907.16,Durable Stapler,Office Supplies
+2120,803,17,2,437.4,Executive Pen Set,Office Supplies
+2121,803,3,2,380.13,Luxury Moisturizer,Beauty & Personal Care
+2122,804,50,3,609.91,Wireless Smartwatch,Electronics
+2123,804,33,3,872.23,Durable Backpack,Sports & Outdoors
+2124,804,47,2,275.32,Limited Edition Self-Help Book,Books
+2125,805,1,3,657.49,Educational Doll,Toys & Games
+2126,805,19,1,470.88,Compact Vacuum,Home Appliances
+2127,805,50,1,609.91,Wireless Smartwatch,Electronics
+2128,806,43,3,871.0,Electric Toaster,Kitchen
+2129,807,20,1,269.58,Interactive Building Blocks,Toys & Games
+2130,807,47,1,275.32,Limited Edition Self-Help Book,Books
+2131,807,25,2,255.44,All-Weather Tent,Sports & Outdoors
+2132,807,40,2,185.38,Ergonomic Cabinet,Furniture
+2133,807,38,3,898.61,Organic Moisturizer,Beauty & Personal Care
+2134,808,32,2,881.19,Ceramic Mixer,Kitchen
+2135,808,2,3,58.73,Ceramic Blender,Kitchen
+2136,808,43,1,871.0,Electric Toaster,Kitchen
+2137,808,47,2,275.32,Limited Edition Self-Help Book,Books
+2138,809,32,1,881.19,Ceramic Mixer,Kitchen
+2139,809,43,1,871.0,Electric Toaster,Kitchen
+2140,810,19,3,470.88,Compact Vacuum,Home Appliances
+2141,810,50,2,609.91,Wireless Smartwatch,Electronics
+2142,811,36,3,432.44,Energy-efficient Fan,Home Appliances
+2143,811,6,3,969.12,Professional Ball,Sports & Outdoors
+2144,811,40,3,185.38,Ergonomic Cabinet,Furniture
+2145,812,14,3,945.75,Modern Sofa,Furniture
+2146,812,31,3,11.91,Formal Jeans,Clothing
+2147,813,17,1,437.4,Executive Pen Set,Office Supplies
+2148,814,1,1,657.49,Educational Doll,Toys & Games
+2149,814,19,3,470.88,Compact Vacuum,Home Appliances
+2150,815,10,2,224.96,Portable TV,Electronics
+2151,816,15,2,670.76,Vintage Jacket,Clothing
+2152,816,1,3,657.49,Educational Doll,Toys & Games
+2153,816,39,3,426.93,Ergonomic Cabinet,Furniture
+2154,816,44,1,36.41,Wooden Cabinet,Furniture
+2155,817,32,2,881.19,Ceramic Mixer,Kitchen
+2156,818,1,3,657.49,Educational Doll,Toys & Games
+2157,818,50,2,609.91,Wireless Smartwatch,Electronics
+2158,818,19,3,470.88,Compact Vacuum,Home Appliances
+2159,819,29,2,869.43,Casual Shirt,Clothing
+2160,819,18,3,218.27,Hardcover Biography,Books
+2161,819,31,2,11.91,Formal Jeans,Clothing
+2162,820,28,1,513.64,Recycled Pen Set,Office Supplies
+2163,820,17,1,437.4,Executive Pen Set,Office Supplies
+2164,820,9,2,907.16,Durable Stapler,Office Supplies
+2165,821,41,1,572.96,Lightweight Tent,Sports & Outdoors
+2166,821,36,2,432.44,Energy-efficient Fan,Home Appliances
+2167,821,27,3,33.26,Professional Shampoo,Beauty & Personal Care
+2168,821,45,1,500.45,Electric Cookware Set,Kitchen
+2169,822,19,1,470.88,Compact Vacuum,Home Appliances
+2170,822,1,2,657.49,Educational Doll,Toys & Games
+2171,822,50,3,609.91,Wireless Smartwatch,Electronics
+2172,823,13,2,936.93,All-Weather Ball,Sports & Outdoors
+2173,823,20,2,269.58,Interactive Building Blocks,Toys & Games
+2174,823,30,1,144.69,Illustrated Self-Help Book,Books
+2175,823,22,3,315.8,Premium Organizer,Office Supplies
+2176,824,17,2,437.4,Executive Pen Set,Office Supplies
+2177,825,18,2,218.27,Hardcover Biography,Books
+2178,826,4,3,692.96,Vintage T-shirt,Clothing
+2179,826,25,1,255.44,All-Weather Tent,Sports & Outdoors
+2180,826,23,1,853.43,Compact Cabinet,Furniture
+2181,827,9,3,907.16,Durable Stapler,Office Supplies
+2182,827,35,2,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+2183,827,32,3,881.19,Ceramic Mixer,Kitchen
+2184,827,12,3,853.97,Designer Shirt,Clothing
+2185,828,3,3,380.13,Luxury Moisturizer,Beauty & Personal Care
+2186,828,36,1,432.44,Energy-efficient Fan,Home Appliances
+2187,828,8,1,620.77,Casual Jeans,Clothing
+2188,829,43,2,871.0,Electric Toaster,Kitchen
+2189,829,44,1,36.41,Wooden Cabinet,Furniture
+2190,830,43,3,871.0,Electric Toaster,Kitchen
+2191,830,32,3,881.19,Ceramic Mixer,Kitchen
+2192,830,2,2,58.73,Ceramic Blender,Kitchen
+2193,830,17,2,437.4,Executive Pen Set,Office Supplies
+2194,831,32,3,881.19,Ceramic Mixer,Kitchen
+2195,831,43,2,871.0,Electric Toaster,Kitchen
+2196,831,26,2,27.02,Portable Fitness Tracker,Sports & Outdoors
+2197,832,29,1,869.43,Casual Shirt,Clothing
+2198,832,10,1,224.96,Portable TV,Electronics
+2199,833,2,1,58.73,Ceramic Blender,Kitchen
+2200,833,12,1,853.97,Designer Shirt,Clothing
+2201,833,10,2,224.96,Portable TV,Electronics
+2202,834,26,2,27.02,Portable Fitness Tracker,Sports & Outdoors
+2203,835,25,1,255.44,All-Weather Tent,Sports & Outdoors
+2204,835,49,1,971.24,Creative Board Game,Toys & Games
+2205,836,28,2,513.64,Recycled Pen Set,Office Supplies
+2206,836,17,2,437.4,Executive Pen Set,Office Supplies
+2207,837,2,2,58.73,Ceramic Blender,Kitchen
+2208,837,32,2,881.19,Ceramic Mixer,Kitchen
+2209,837,43,2,871.0,Electric Toaster,Kitchen
+2210,837,46,1,186.25,Natural Hair Dryer,Beauty & Personal Care
+2211,837,47,3,275.32,Limited Edition Self-Help Book,Books
+2212,838,27,2,33.26,Professional Shampoo,Beauty & Personal Care
+2213,838,30,3,144.69,Illustrated Self-Help Book,Books
+2214,839,49,1,971.24,Creative Board Game,Toys & Games
+2215,840,34,2,581.47,Natural Moisturizer,Beauty & Personal Care
+2216,840,41,2,572.96,Lightweight Tent,Sports & Outdoors
+2217,841,30,3,144.69,Illustrated Self-Help Book,Books
+2218,841,39,2,426.93,Ergonomic Cabinet,Furniture
+2219,841,38,3,898.61,Organic Moisturizer,Beauty & Personal Care
+2220,841,50,1,609.91,Wireless Smartwatch,Electronics
+2221,842,2,1,58.73,Ceramic Blender,Kitchen
+2222,842,43,2,871.0,Electric Toaster,Kitchen
+2223,843,24,3,116.35,Wireless TV,Electronics
+2224,844,1,2,657.49,Educational Doll,Toys & Games
+2225,844,19,3,470.88,Compact Vacuum,Home Appliances
+2226,844,50,3,609.91,Wireless Smartwatch,Electronics
+2227,845,9,3,907.16,Durable Stapler,Office Supplies
+2228,845,28,3,513.64,Recycled Pen Set,Office Supplies
+2229,846,26,1,27.02,Portable Fitness Tracker,Sports & Outdoors
+2230,846,3,2,380.13,Luxury Moisturizer,Beauty & Personal Care
+2231,846,28,3,513.64,Recycled Pen Set,Office Supplies
+2232,847,26,1,27.02,Portable Fitness Tracker,Sports & Outdoors
+2233,848,19,3,470.88,Compact Vacuum,Home Appliances
+2234,848,1,1,657.49,Educational Doll,Toys & Games
+2235,848,50,2,609.91,Wireless Smartwatch,Electronics
+2236,848,29,1,869.43,Casual Shirt,Clothing
+2237,849,1,2,657.49,Educational Doll,Toys & Games
+2238,850,11,3,798.89,Electronic Puzzle,Toys & Games
+2239,850,45,3,500.45,Electric Cookware Set,Kitchen
+2240,850,16,3,164.09,Classic Puzzle,Toys & Games
+2241,850,34,2,581.47,Natural Moisturizer,Beauty & Personal Care
+2242,850,12,2,853.97,Designer Shirt,Clothing
+2243,851,19,3,470.88,Compact Vacuum,Home Appliances
+2244,851,1,1,657.49,Educational Doll,Toys & Games
+2245,851,50,2,609.91,Wireless Smartwatch,Electronics
+2246,851,31,2,11.91,Formal Jeans,Clothing
+2247,851,32,2,881.19,Ceramic Mixer,Kitchen
+2248,852,25,1,255.44,All-Weather Tent,Sports & Outdoors
+2249,852,17,1,437.4,Executive Pen Set,Office Supplies
+2250,852,41,2,572.96,Lightweight Tent,Sports & Outdoors
+2251,852,13,2,936.93,All-Weather Ball,Sports & Outdoors
+2252,853,50,2,609.91,Wireless Smartwatch,Electronics
+2253,853,19,1,470.88,Compact Vacuum,Home Appliances
+2254,854,31,1,11.91,Formal Jeans,Clothing
+2255,854,25,2,255.44,All-Weather Tent,Sports & Outdoors
+2256,854,21,1,330.45,Smart Heater,Home Appliances
+2257,854,2,3,58.73,Ceramic Blender,Kitchen
+2258,854,28,3,513.64,Recycled Pen Set,Office Supplies
+2259,855,2,1,58.73,Ceramic Blender,Kitchen
+2260,856,32,2,881.19,Ceramic Mixer,Kitchen
+2261,856,2,2,58.73,Ceramic Blender,Kitchen
+2262,856,43,1,871.0,Electric Toaster,Kitchen
+2263,856,40,3,185.38,Ergonomic Cabinet,Furniture
+2264,856,21,1,330.45,Smart Heater,Home Appliances
+2265,857,32,2,881.19,Ceramic Mixer,Kitchen
+2266,858,18,2,218.27,Hardcover Biography,Books
+2267,858,34,2,581.47,Natural Moisturizer,Beauty & Personal Care
+2268,858,9,1,907.16,Durable Stapler,Office Supplies
+2269,858,46,2,186.25,Natural Hair Dryer,Beauty & Personal Care
+2270,858,50,1,609.91,Wireless Smartwatch,Electronics
+2271,859,2,1,58.73,Ceramic Blender,Kitchen
+2272,860,46,1,186.25,Natural Hair Dryer,Beauty & Personal Care
+2273,860,1,1,657.49,Educational Doll,Toys & Games
+2274,860,43,2,871.0,Electric Toaster,Kitchen
+2275,860,12,1,853.97,Designer Shirt,Clothing
+2276,860,45,2,500.45,Electric Cookware Set,Kitchen
+2277,861,16,3,164.09,Classic Puzzle,Toys & Games
+2278,861,18,1,218.27,Hardcover Biography,Books
+2279,862,9,3,907.16,Durable Stapler,Office Supplies
+2280,862,17,1,437.4,Executive Pen Set,Office Supplies
+2281,862,28,2,513.64,Recycled Pen Set,Office Supplies
+2282,863,17,3,437.4,Executive Pen Set,Office Supplies
+2283,863,28,3,513.64,Recycled Pen Set,Office Supplies
+2284,864,9,2,907.16,Durable Stapler,Office Supplies
+2285,865,39,3,426.93,Ergonomic Cabinet,Furniture
+2286,865,8,3,620.77,Casual Jeans,Clothing
+2287,866,35,2,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+2288,866,46,2,186.25,Natural Hair Dryer,Beauty & Personal Care
+2289,866,26,3,27.02,Portable Fitness Tracker,Sports & Outdoors
+2290,867,41,3,572.96,Lightweight Tent,Sports & Outdoors
+2291,867,20,1,269.58,Interactive Building Blocks,Toys & Games
+2292,867,27,3,33.26,Professional Shampoo,Beauty & Personal Care
+2293,868,5,3,217.67,Classic Board Game,Toys & Games
+2294,869,28,1,513.64,Recycled Pen Set,Office Supplies
+2295,869,17,3,437.4,Executive Pen Set,Office Supplies
+2296,870,10,2,224.96,Portable TV,Electronics
+2297,871,28,2,513.64,Recycled Pen Set,Office Supplies
+2298,871,9,1,907.16,Durable Stapler,Office Supplies
+2299,872,7,1,669.73,Bestselling Biography,Books
+2300,872,49,2,971.24,Creative Board Game,Toys & Games
+2301,872,10,2,224.96,Portable TV,Electronics
+2302,873,8,2,620.77,Casual Jeans,Clothing
+2303,873,39,2,426.93,Ergonomic Cabinet,Furniture
+2304,873,45,2,500.45,Electric Cookware Set,Kitchen
+2305,874,1,3,657.49,Educational Doll,Toys & Games
+2306,875,43,2,871.0,Electric Toaster,Kitchen
+2307,875,15,3,670.76,Vintage Jacket,Clothing
+2308,875,8,3,620.77,Casual Jeans,Clothing
+2309,876,17,3,437.4,Executive Pen Set,Office Supplies
+2310,876,9,1,907.16,Durable Stapler,Office Supplies
+2311,876,28,2,513.64,Recycled Pen Set,Office Supplies
+2312,876,19,2,470.88,Compact Vacuum,Home Appliances
+2313,876,43,2,871.0,Electric Toaster,Kitchen
+2314,877,2,3,58.73,Ceramic Blender,Kitchen
+2315,877,43,3,871.0,Electric Toaster,Kitchen
+2316,877,32,2,881.19,Ceramic Mixer,Kitchen
+2317,877,48,2,353.38,Portable Bicycle,Sports & Outdoors
+2318,878,39,2,426.93,Ergonomic Cabinet,Furniture
+2319,878,18,1,218.27,Hardcover Biography,Books
+2320,878,40,1,185.38,Ergonomic Cabinet,Furniture
+2321,878,47,1,275.32,Limited Edition Self-Help Book,Books
+2322,879,30,3,144.69,Illustrated Self-Help Book,Books
+2323,880,50,3,609.91,Wireless Smartwatch,Electronics
+2324,880,19,1,470.88,Compact Vacuum,Home Appliances
+2325,880,1,2,657.49,Educational Doll,Toys & Games
+2326,880,4,1,692.96,Vintage T-shirt,Clothing
+2327,880,33,3,872.23,Durable Backpack,Sports & Outdoors
+2328,881,15,1,670.76,Vintage Jacket,Clothing
+2329,881,20,3,269.58,Interactive Building Blocks,Toys & Games
+2330,881,37,1,575.69,Classic Board Game,Toys & Games
+2331,882,28,3,513.64,Recycled Pen Set,Office Supplies
+2332,882,16,2,164.09,Classic Puzzle,Toys & Games
+2333,883,35,3,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+2334,883,20,2,269.58,Interactive Building Blocks,Toys & Games
+2335,884,28,1,513.64,Recycled Pen Set,Office Supplies
+2336,884,17,1,437.4,Executive Pen Set,Office Supplies
+2337,884,9,3,907.16,Durable Stapler,Office Supplies
+2338,885,44,1,36.41,Wooden Cabinet,Furniture
+2339,885,48,3,353.38,Portable Bicycle,Sports & Outdoors
+2340,885,17,3,437.4,Executive Pen Set,Office Supplies
+2341,885,10,1,224.96,Portable TV,Electronics
+2342,885,14,3,945.75,Modern Sofa,Furniture
+2343,886,17,2,437.4,Executive Pen Set,Office Supplies
+2344,887,50,3,609.91,Wireless Smartwatch,Electronics
+2345,887,10,2,224.96,Portable TV,Electronics
+2346,888,50,2,609.91,Wireless Smartwatch,Electronics
+2347,888,1,2,657.49,Educational Doll,Toys & Games
+2348,888,19,2,470.88,Compact Vacuum,Home Appliances
+2349,889,19,1,470.88,Compact Vacuum,Home Appliances
+2350,889,15,1,670.76,Vintage Jacket,Clothing
+2351,889,36,3,432.44,Energy-efficient Fan,Home Appliances
+2352,889,8,3,620.77,Casual Jeans,Clothing
+2353,890,2,1,58.73,Ceramic Blender,Kitchen
+2354,890,3,3,380.13,Luxury Moisturizer,Beauty & Personal Care
+2355,890,7,1,669.73,Bestselling Biography,Books
+2356,891,28,2,513.64,Recycled Pen Set,Office Supplies
+2357,891,32,1,881.19,Ceramic Mixer,Kitchen
+2358,892,21,3,330.45,Smart Heater,Home Appliances
+2359,892,45,3,500.45,Electric Cookware Set,Kitchen
+2360,892,29,2,869.43,Casual Shirt,Clothing
+2361,892,2,2,58.73,Ceramic Blender,Kitchen
+2362,893,43,2,871.0,Electric Toaster,Kitchen
+2363,893,2,3,58.73,Ceramic Blender,Kitchen
+2364,894,35,1,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+2365,895,6,3,969.12,Professional Ball,Sports & Outdoors
+2366,895,45,3,500.45,Electric Cookware Set,Kitchen
+2367,895,36,2,432.44,Energy-efficient Fan,Home Appliances
+2368,895,28,1,513.64,Recycled Pen Set,Office Supplies
+2369,895,33,1,872.23,Durable Backpack,Sports & Outdoors
+2370,896,38,3,898.61,Organic Moisturizer,Beauty & Personal Care
+2371,896,40,2,185.38,Ergonomic Cabinet,Furniture
+2372,896,29,3,869.43,Casual Shirt,Clothing
+2373,897,21,3,330.45,Smart Heater,Home Appliances
+2374,897,32,3,881.19,Ceramic Mixer,Kitchen
+2375,897,30,2,144.69,Illustrated Self-Help Book,Books
+2376,897,11,1,798.89,Electronic Puzzle,Toys & Games
+2377,898,11,2,798.89,Electronic Puzzle,Toys & Games
+2378,898,21,1,330.45,Smart Heater,Home Appliances
+2379,899,32,1,881.19,Ceramic Mixer,Kitchen
+2380,899,2,3,58.73,Ceramic Blender,Kitchen
+2381,899,43,2,871.0,Electric Toaster,Kitchen
+2382,899,39,2,426.93,Ergonomic Cabinet,Furniture
+2383,899,42,2,874.95,Vintage Shirt,Clothing
+2384,900,9,1,907.16,Durable Stapler,Office Supplies
+2385,900,17,2,437.4,Executive Pen Set,Office Supplies
+2386,901,44,3,36.41,Wooden Cabinet,Furniture
+2387,901,28,1,513.64,Recycled Pen Set,Office Supplies
+2388,902,14,3,945.75,Modern Sofa,Furniture
+2389,903,42,1,874.95,Vintage Shirt,Clothing
+2390,904,3,2,380.13,Luxury Moisturizer,Beauty & Personal Care
+2391,904,39,2,426.93,Ergonomic Cabinet,Furniture
+2392,905,2,3,58.73,Ceramic Blender,Kitchen
+2393,906,17,1,437.4,Executive Pen Set,Office Supplies
+2394,907,43,3,871.0,Electric Toaster,Kitchen
+2395,907,32,1,881.19,Ceramic Mixer,Kitchen
+2396,907,2,2,58.73,Ceramic Blender,Kitchen
+2397,907,41,2,572.96,Lightweight Tent,Sports & Outdoors
+2398,908,10,2,224.96,Portable TV,Electronics
+2399,908,43,3,871.0,Electric Toaster,Kitchen
+2400,908,6,2,969.12,Professional Ball,Sports & Outdoors
+2401,909,48,2,353.38,Portable Bicycle,Sports & Outdoors
+2402,909,14,2,945.75,Modern Sofa,Furniture
+2403,909,44,2,36.41,Wooden Cabinet,Furniture
+2404,909,17,2,437.4,Executive Pen Set,Office Supplies
+2405,909,16,2,164.09,Classic Puzzle,Toys & Games
+2406,910,49,1,971.24,Creative Board Game,Toys & Games
+2407,910,32,1,881.19,Ceramic Mixer,Kitchen
+2408,910,33,3,872.23,Durable Backpack,Sports & Outdoors
+2409,911,19,3,470.88,Compact Vacuum,Home Appliances
+2410,911,1,1,657.49,Educational Doll,Toys & Games
+2411,912,50,3,609.91,Wireless Smartwatch,Electronics
+2412,912,18,2,218.27,Hardcover Biography,Books
+2413,912,10,3,224.96,Portable TV,Electronics
+2414,913,33,1,872.23,Durable Backpack,Sports & Outdoors
+2415,914,13,3,936.93,All-Weather Ball,Sports & Outdoors
+2416,915,24,2,116.35,Wireless TV,Electronics
+2417,915,28,3,513.64,Recycled Pen Set,Office Supplies
+2418,915,35,2,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+2419,915,48,2,353.38,Portable Bicycle,Sports & Outdoors
+2420,916,40,2,185.38,Ergonomic Cabinet,Furniture
+2421,917,22,2,315.8,Premium Organizer,Office Supplies
+2422,917,30,2,144.69,Illustrated Self-Help Book,Books
+2423,917,48,3,353.38,Portable Bicycle,Sports & Outdoors
+2424,918,43,3,871.0,Electric Toaster,Kitchen
+2425,918,2,3,58.73,Ceramic Blender,Kitchen
+2426,919,31,3,11.91,Formal Jeans,Clothing
+2427,919,29,3,869.43,Casual Shirt,Clothing
+2428,919,39,3,426.93,Ergonomic Cabinet,Furniture
+2429,920,50,3,609.91,Wireless Smartwatch,Electronics
+2430,920,19,3,470.88,Compact Vacuum,Home Appliances
+2431,920,1,1,657.49,Educational Doll,Toys & Games
+2432,921,49,1,971.24,Creative Board Game,Toys & Games
+2433,921,43,3,871.0,Electric Toaster,Kitchen
+2434,921,32,3,881.19,Ceramic Mixer,Kitchen
+2435,921,34,3,581.47,Natural Moisturizer,Beauty & Personal Care
+2436,922,2,2,58.73,Ceramic Blender,Kitchen
+2437,922,6,2,969.12,Professional Ball,Sports & Outdoors
+2438,922,15,2,670.76,Vintage Jacket,Clothing
+2439,922,32,2,881.19,Ceramic Mixer,Kitchen
+2440,923,9,3,907.16,Durable Stapler,Office Supplies
+2441,923,28,2,513.64,Recycled Pen Set,Office Supplies
+2442,924,42,2,874.95,Vintage Shirt,Clothing
+2443,924,46,2,186.25,Natural Hair Dryer,Beauty & Personal Care
+2444,924,38,3,898.61,Organic Moisturizer,Beauty & Personal Care
+2445,925,19,3,470.88,Compact Vacuum,Home Appliances
+2446,925,50,3,609.91,Wireless Smartwatch,Electronics
+2447,925,1,2,657.49,Educational Doll,Toys & Games
+2448,926,44,3,36.41,Wooden Cabinet,Furniture
+2449,926,12,2,853.97,Designer Shirt,Clothing
+2450,926,27,1,33.26,Professional Shampoo,Beauty & Personal Care
+2451,927,19,3,470.88,Compact Vacuum,Home Appliances
+2452,927,50,3,609.91,Wireless Smartwatch,Electronics
+2453,928,27,3,33.26,Professional Shampoo,Beauty & Personal Care
+2454,928,3,2,380.13,Luxury Moisturizer,Beauty & Personal Care
+2455,929,13,1,936.93,All-Weather Ball,Sports & Outdoors
+2456,929,22,1,315.8,Premium Organizer,Office Supplies
+2457,930,38,2,898.61,Organic Moisturizer,Beauty & Personal Care
+2458,931,1,1,657.49,Educational Doll,Toys & Games
+2459,931,40,2,185.38,Ergonomic Cabinet,Furniture
+2460,931,46,1,186.25,Natural Hair Dryer,Beauty & Personal Care
+2461,932,48,1,353.38,Portable Bicycle,Sports & Outdoors
+2462,933,11,1,798.89,Electronic Puzzle,Toys & Games
+2463,933,40,3,185.38,Ergonomic Cabinet,Furniture
+2464,934,36,1,432.44,Energy-efficient Fan,Home Appliances
+2465,934,6,2,969.12,Professional Ball,Sports & Outdoors
+2466,934,41,2,572.96,Lightweight Tent,Sports & Outdoors
+2467,934,16,1,164.09,Classic Puzzle,Toys & Games
+2468,934,15,2,670.76,Vintage Jacket,Clothing
+2469,935,18,2,218.27,Hardcover Biography,Books
+2470,935,2,1,58.73,Ceramic Blender,Kitchen
+2471,936,2,2,58.73,Ceramic Blender,Kitchen
+2472,936,11,1,798.89,Electronic Puzzle,Toys & Games
+2473,936,35,2,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+2474,936,20,2,269.58,Interactive Building Blocks,Toys & Games
+2475,937,40,3,185.38,Ergonomic Cabinet,Furniture
+2476,938,25,3,255.44,All-Weather Tent,Sports & Outdoors
+2477,938,18,1,218.27,Hardcover Biography,Books
+2478,939,2,3,58.73,Ceramic Blender,Kitchen
+2479,939,32,2,881.19,Ceramic Mixer,Kitchen
+2480,939,43,2,871.0,Electric Toaster,Kitchen
+2481,940,12,1,853.97,Designer Shirt,Clothing
+2482,940,43,1,871.0,Electric Toaster,Kitchen
+2483,940,31,1,11.91,Formal Jeans,Clothing
+2484,941,40,2,185.38,Ergonomic Cabinet,Furniture
+2485,941,43,1,871.0,Electric Toaster,Kitchen
+2486,941,13,1,936.93,All-Weather Ball,Sports & Outdoors
+2487,942,35,1,676.61,Hypoallergenic Hair Dryer,Beauty & Personal Care
+2488,943,48,1,353.38,Portable Bicycle,Sports & Outdoors
+2489,943,39,2,426.93,Ergonomic Cabinet,Furniture
+2490,944,50,1,609.91,Wireless Smartwatch,Electronics
+2491,944,19,1,470.88,Compact Vacuum,Home Appliances
+2492,944,1,1,657.49,Educational Doll,Toys & Games
+2493,944,42,1,874.95,Vintage Shirt,Clothing
+2494,944,10,3,224.96,Portable TV,Electronics
+2495,945,19,2,470.88,Compact Vacuum,Home Appliances
+2496,945,50,2,609.91,Wireless Smartwatch,Electronics
+2497,945,1,3,657.49,Educational Doll,Toys & Games
+2498,946,9,2,907.16,Durable Stapler,Office Supplies
+2499,946,17,2,437.4,Executive Pen Set,Office Supplies
+2500,946,28,2,513.64,Recycled Pen Set,Office Supplies
+2501,946,2,1,58.73,Ceramic Blender,Kitchen
+2502,947,16,1,164.09,Classic Puzzle,Toys & Games
+2503,947,37,2,575.69,Classic Board Game,Toys & Games
+2504,948,8,1,620.77,Casual Jeans,Clothing
+2505,948,12,2,853.97,Designer Shirt,Clothing
+2506,949,32,2,881.19,Ceramic Mixer,Kitchen
+2507,949,43,3,871.0,Electric Toaster,Kitchen
+2508,949,2,3,58.73,Ceramic Blender,Kitchen
+2509,949,30,2,144.69,Illustrated Self-Help Book,Books
+2510,949,25,2,255.44,All-Weather Tent,Sports & Outdoors
+2511,950,9,2,907.16,Durable Stapler,Office Supplies
+2512,950,17,2,437.4,Executive Pen Set,Office Supplies
+2513,950,28,1,513.64,Recycled Pen Set,Office Supplies
+2514,950,23,2,853.43,Compact Cabinet,Furniture
+2515,950,25,2,255.44,All-Weather Tent,Sports & Outdoors
+2516,951,28,1,513.64,Recycled Pen Set,Office Supplies
+2517,951,9,1,907.16,Durable Stapler,Office Supplies
+2518,952,28,3,513.64,Recycled Pen Set,Office Supplies
+2519,953,17,1,437.4,Executive Pen Set,Office Supplies
+2520,954,17,3,437.4,Executive Pen Set,Office Supplies
+2521,955,9,3,907.16,Durable Stapler,Office Supplies
+2522,955,17,3,437.4,Executive Pen Set,Office Supplies
+2523,955,28,1,513.64,Recycled Pen Set,Office Supplies
+2524,955,36,2,432.44,Energy-efficient Fan,Home Appliances
+2525,956,43,3,871.0,Electric Toaster,Kitchen
+2526,956,25,2,255.44,All-Weather Tent,Sports & Outdoors
+2527,956,9,1,907.16,Durable Stapler,Office Supplies
+2528,957,1,2,657.49,Educational Doll,Toys & Games
+2529,957,50,1,609.91,Wireless Smartwatch,Electronics
+2530,958,9,1,907.16,Durable Stapler,Office Supplies
+2531,958,28,1,513.64,Recycled Pen Set,Office Supplies
+2532,958,17,3,437.4,Executive Pen Set,Office Supplies
+2533,958,7,2,669.73,Bestselling Biography,Books
+2534,959,50,2,609.91,Wireless Smartwatch,Electronics
+2535,959,1,2,657.49,Educational Doll,Toys & Games
+2536,960,9,2,907.16,Durable Stapler,Office Supplies
+2537,960,28,2,513.64,Recycled Pen Set,Office Supplies
+2538,961,34,1,581.47,Natural Moisturizer,Beauty & Personal Care
+2539,962,12,1,853.97,Designer Shirt,Clothing
+2540,962,11,1,798.89,Electronic Puzzle,Toys & Games
+2541,962,45,2,500.45,Electric Cookware Set,Kitchen
+2542,962,1,1,657.49,Educational Doll,Toys & Games
+2543,963,19,3,470.88,Compact Vacuum,Home Appliances
+2544,963,30,2,144.69,Illustrated Self-Help Book,Books
+2545,963,4,1,692.96,Vintage T-shirt,Clothing
+2546,963,37,2,575.69,Classic Board Game,Toys & Games
+2547,964,43,1,871.0,Electric Toaster,Kitchen
+2548,964,32,1,881.19,Ceramic Mixer,Kitchen
+2549,964,2,2,58.73,Ceramic Blender,Kitchen
+2550,964,47,2,275.32,Limited Edition Self-Help Book,Books
+2551,965,2,3,58.73,Ceramic Blender,Kitchen
+2552,966,2,1,58.73,Ceramic Blender,Kitchen
+2553,966,43,1,871.0,Electric Toaster,Kitchen
+2554,967,8,1,620.77,Casual Jeans,Clothing
+2555,967,31,1,11.91,Formal Jeans,Clothing
+2556,968,12,2,853.97,Designer Shirt,Clothing
+2557,968,13,3,936.93,All-Weather Ball,Sports & Outdoors
+2558,968,47,3,275.32,Limited Edition Self-Help Book,Books
+2559,968,29,1,869.43,Casual Shirt,Clothing
+2560,968,48,2,353.38,Portable Bicycle,Sports & Outdoors
+2561,969,2,1,58.73,Ceramic Blender,Kitchen
+2562,969,43,2,871.0,Electric Toaster,Kitchen
+2563,970,32,1,881.19,Ceramic Mixer,Kitchen
+2564,970,25,1,255.44,All-Weather Tent,Sports & Outdoors
+2565,970,24,1,116.35,Wireless TV,Electronics
+2566,970,37,3,575.69,Classic Board Game,Toys & Games
+2567,970,5,1,217.67,Classic Board Game,Toys & Games
+2568,971,32,1,881.19,Ceramic Mixer,Kitchen
+2569,971,43,2,871.0,Electric Toaster,Kitchen
+2570,972,9,1,907.16,Durable Stapler,Office Supplies
+2571,972,17,1,437.4,Executive Pen Set,Office Supplies
+2572,972,28,2,513.64,Recycled Pen Set,Office Supplies
+2573,973,43,2,871.0,Electric Toaster,Kitchen
+2574,973,2,2,58.73,Ceramic Blender,Kitchen
+2575,973,10,2,224.96,Portable TV,Electronics
+2576,974,23,3,853.43,Compact Cabinet,Furniture
+2577,974,14,1,945.75,Modern Sofa,Furniture
+2578,974,33,2,872.23,Durable Backpack,Sports & Outdoors
+2579,975,49,2,971.24,Creative Board Game,Toys & Games
+2580,975,40,3,185.38,Ergonomic Cabinet,Furniture
+2581,975,47,1,275.32,Limited Edition Self-Help Book,Books
+2582,975,12,3,853.97,Designer Shirt,Clothing
+2583,976,19,2,470.88,Compact Vacuum,Home Appliances
+2584,976,1,3,657.49,Educational Doll,Toys & Games
+2585,977,28,2,513.64,Recycled Pen Set,Office Supplies
+2586,977,8,2,620.77,Casual Jeans,Clothing
+2587,977,20,2,269.58,Interactive Building Blocks,Toys & Games
+2588,978,28,1,513.64,Recycled Pen Set,Office Supplies
+2589,978,17,2,437.4,Executive Pen Set,Office Supplies
+2590,978,9,3,907.16,Durable Stapler,Office Supplies
+2591,978,44,1,36.41,Wooden Cabinet,Furniture
+2592,978,14,3,945.75,Modern Sofa,Furniture
+2593,979,38,3,898.61,Organic Moisturizer,Beauty & Personal Care
+2594,979,46,3,186.25,Natural Hair Dryer,Beauty & Personal Care
+2595,979,25,2,255.44,All-Weather Tent,Sports & Outdoors
+2596,979,29,3,869.43,Casual Shirt,Clothing
+2597,980,38,3,898.61,Organic Moisturizer,Beauty & Personal Care
+2598,981,50,2,609.91,Wireless Smartwatch,Electronics
+2599,981,12,3,853.97,Designer Shirt,Clothing
+2600,981,3,3,380.13,Luxury Moisturizer,Beauty & Personal Care
+2601,982,7,2,669.73,Bestselling Biography,Books
+2602,982,6,2,969.12,Professional Ball,Sports & Outdoors
+2603,982,12,1,853.97,Designer Shirt,Clothing
+2604,983,25,2,255.44,All-Weather Tent,Sports & Outdoors
+2605,983,28,1,513.64,Recycled Pen Set,Office Supplies
+2606,983,43,2,871.0,Electric Toaster,Kitchen
+2607,984,2,1,58.73,Ceramic Blender,Kitchen
+2608,984,11,1,798.89,Electronic Puzzle,Toys & Games
+2609,984,31,2,11.91,Formal Jeans,Clothing
+2610,985,21,1,330.45,Smart Heater,Home Appliances
+2611,985,23,1,853.43,Compact Cabinet,Furniture
+2612,985,30,2,144.69,Illustrated Self-Help Book,Books
+2613,986,21,3,330.45,Smart Heater,Home Appliances
+2614,986,7,3,669.73,Bestselling Biography,Books
+2615,986,47,2,275.32,Limited Edition Self-Help Book,Books
+2616,987,14,1,945.75,Modern Sofa,Furniture
+2617,987,23,1,853.43,Compact Cabinet,Furniture
+2618,987,33,2,872.23,Durable Backpack,Sports & Outdoors
+2619,987,12,3,853.97,Designer Shirt,Clothing
+2620,987,10,3,224.96,Portable TV,Electronics
+2621,988,32,3,881.19,Ceramic Mixer,Kitchen
+2622,988,43,2,871.0,Electric Toaster,Kitchen
+2623,989,23,2,853.43,Compact Cabinet,Furniture
+2624,989,50,1,609.91,Wireless Smartwatch,Electronics
+2625,990,19,2,470.88,Compact Vacuum,Home Appliances
+2626,990,1,3,657.49,Educational Doll,Toys & Games
+2627,991,15,1,670.76,Vintage Jacket,Clothing
+2628,991,21,3,330.45,Smart Heater,Home Appliances
+2629,992,50,2,609.91,Wireless Smartwatch,Electronics
+2630,992,1,3,657.49,Educational Doll,Toys & Games
+2631,993,50,3,609.91,Wireless Smartwatch,Electronics
+2632,994,2,3,58.73,Ceramic Blender,Kitchen
+2633,994,32,1,881.19,Ceramic Mixer,Kitchen
+2634,994,43,3,871.0,Electric Toaster,Kitchen
+2635,995,32,3,881.19,Ceramic Mixer,Kitchen
+2636,995,43,1,871.0,Electric Toaster,Kitchen
+2637,995,2,3,58.73,Ceramic Blender,Kitchen
+2638,995,31,2,11.91,Formal Jeans,Clothing
+2639,996,13,3,936.93,All-Weather Ball,Sports & Outdoors
+2640,997,19,1,470.88,Compact Vacuum,Home Appliances
+2641,997,1,1,657.49,Educational Doll,Toys & Games
+2642,998,27,1,33.26,Professional Shampoo,Beauty & Personal Care
+2643,998,9,1,907.16,Durable Stapler,Office Supplies
+2644,999,12,1,853.97,Designer Shirt,Clothing
+2645,999,46,1,186.25,Natural Hair Dryer,Beauty & Personal Care
+2646,999,37,3,575.69,Classic Board Game,Toys & Games
+2647,999,11,1,798.89,Electronic Puzzle,Toys & Games
+2648,1000,9,1,907.16,Durable Stapler,Office Supplies
+2649,1000,28,2,513.64,Recycled Pen Set,Office Supplies
+2650,1000,17,1,437.4,Executive Pen Set,Office Supplies
+2651,1000,40,1,185.38,Ergonomic Cabinet,Furniture
